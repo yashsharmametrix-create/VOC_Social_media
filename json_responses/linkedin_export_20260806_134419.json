@@ -1,0 +1,2661 @@
+{
+  "export_timestamp": "2026-08-06T13:45:06.944957",
+  "total_posts": 17,
+  "total_comments": 30,
+  "posts": [
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 1
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.01639344262295082,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952",
+            "author": "mamta choudhary",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.219508196721312,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 1,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489303166245629952"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; no evidence of LG AC concept.",
+        "cluster_id": "cluster-1"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 2
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.016129032258064516,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+            "author": "LG HVAC Solutions India",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.1996774193548387,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 2,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; no mention of LG AC.",
+        "cluster_id": "cluster-2"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 3
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.015873015873015872,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+            "author": "Sofia Sekkat",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.1804761904761905,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 3,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; cannot find LG AC.",
+        "cluster_id": "cluster-3"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 4
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.015625,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+            "author": "ABHISHEK KUMAR",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.161875,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 4,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; no LG AC reference.",
+        "cluster_id": "cluster-4"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 5
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.015384615384615385,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224",
+            "author": "deConcord HVAC Systems and Solutions Pvt Ltd HVAC",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.143846153846154,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 5,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490723982607028224"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; no evidence for LG AC concept.",
+        "cluster_id": "cluster-5"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 6
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.015151515151515152,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+            "author": "Barrack Onyango",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.1263636363636365,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 6,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; missing LG AC mention.",
+        "cluster_id": "cluster-6"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 7
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.014925373134328358,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+            "author": "Pawan Kumar",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.1094029850746265,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 7,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; no LG AC or synonym present.",
+        "cluster_id": "cluster-7"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 8
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.014705882352941176,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+            "author": "Mohammed Elmahdy",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.092941176470588,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 8,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; cannot confirm LG AC.",
+        "cluster_id": "cluster-8"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 9
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.014492753623188406,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+            "author": "Naor Shmuel",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 2.0769565217391306,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 9,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345"
+            }
+          ]
+        },
+        "rerank_score": 0,
+        "explanation": "Title/snippet empty; no LG AC concept signals.",
+        "cluster_id": "cluster-9"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 1
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.00273224043715847,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+            "author": "ISHA KOTWAL",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.983060109289617,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 1,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-1"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 2
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.0026881720430107525,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+            "author": "Sofia Sekkat",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.972043010752689,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 2,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-2"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 3
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.0026455026455026454,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176",
+            "author": "Hardy Bache",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.961375661375662,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 3,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484005905831858176"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-3"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 4
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.0026041666666666665,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320",
+            "author": "deConcord HVAC Systems and Solutions Pvt Ltd HVAC",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.951041666666667,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 4,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486308753198264320"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-4"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 5
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.002564102564102564,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+            "author": "Parvesh Kumar",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.941025641025641,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 5,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-5"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 6
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.002525252525252525,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136",
+            "author": "Manoj Lamba",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.931313131313132,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 6,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482291565709787136"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-6"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 7
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.0024875621890547263,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938",
+            "author": "Nessreen Ragheb",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.921890547263683,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 7,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7489582309445287938"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-7"
+      }
+    },
+    {
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+      "title": "No content available...",
+      "text": "No content available",
+      "author": "Unknown",
+      "author_id": "",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+      "timestamp": "",
+      "geo_region": "",
+      "likes": 0,
+      "comments_count": 0,
+      "raw_data": {
+        "candidate_id": "https://linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+        "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+        "source": "linkedin",
+        "title": "",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+        "snippet": "",
+        "subquery_labels": [
+          "primary"
+        ],
+        "native_ranks": {
+          "primary:linkedin": 8
+        },
+        "local_relevance": 0,
+        "freshness": 0,
+        "engagement": null,
+        "source_quality": 0.66,
+        "rrf_score": 0.0024509803921568627,
+        "sources": [
+          "linkedin"
+        ],
+        "source_items": [
+          {
+            "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+            "source": "linkedin",
+            "title": "",
+            "body": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+            "author": "ABHISHEK KUMAR",
+            "date_confidence": "low",
+            "engagement": {},
+            "relevance_hint": 0.5,
+            "why_relevant": "",
+            "snippet": "",
+            "metadata": {},
+            "media": {
+              "thumbnail_url": null,
+              "video_url": null,
+              "duration_s": null,
+              "image_urls": [],
+              "aspect_ratio": null,
+              "author_avatar_url": null,
+              "favicon_url": null
+            },
+            "local_relevance": 0,
+            "freshness": 0,
+            "engagement_score": null,
+            "source_quality": 0.66,
+            "local_rank_score": 0
+          }
+        ],
+        "final_score": 15.912745098039217,
+        "metadata": {
+          "provenance": [
+            {
+              "source": "linkedin",
+              "subquery_label": "primary",
+              "native_rank": 8,
+              "item_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680"
+            }
+          ]
+        },
+        "rerank_score": 20,
+        "explanation": "Empty title/snippet; no mention of LG Air Conditioner or synonym.",
+        "cluster_id": "cluster-8"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "comment_id": "comment_ac8be07ce6608bc1",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480885963976622080",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7484517590090874880",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7480220263993765888",
+          "text": "For us, LG has always meant trust and durability.\nBack in 2004, we purchased an LG 1.5 Ton Window AC for our home. Even after more than 22 years, it is still running well and is being used daily by my father in our village. That kind of reliability is truly remarkable.\nNow, I would love to replace it with a new LG Window AC for my father. As a long-time and happy LG customer, it would be wonderful if LG could help us continue this journey.\nThank you, LG, for building products that stand the test of time. ❤️\n#LG #LifeGood #LGIndia #WindowAC #CustomerExperience #BrandLoyalty #Durability #Quality #TrustedBrand #HappyCustomer #MadeToLast #HomeComfort",
+          "author": {
+            "username": null,
+            "display_name": "Pattabhirama Mohan Patnala",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQESWlOLVPjLPQ/profile-displayphoto-crop_800_800/B56Z2pSODLIUAI-/0/1776661621259?e=1787788800&v=beta&t=kq3EAEoaHt633lgM-zkKOFQMelTW1Ctz-eMWN_cd_Pw",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-19T08:00:49.091Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7480220263993765888,7484517590090874880)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_ac8be07ce6608bc1"
+      }
+    },
+    {
+      "comment_id": "comment_e0e0ef5365aba704",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7485334979061813248",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7485334224477179904",
+          "text": "LG Electronics Morocco  LG Electronics  LG Electronics CEE  LG Electronics Air Conditioning and Energy Solution ",
+          "author": {
+            "username": null,
+            "display_name": "Sofia Sekkat",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-21T14:08:49.808Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7485334224477179904,7485334979061813248)",
+            "reaction_counts": [
+              {
+                "count": 2,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_e0e0ef5365aba704"
+      }
+    },
+    {
+      "comment_id": "comment_e3e7b71be6bac79d",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7485658827984416768",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7485334224477179904",
+          "text": "WHEN U PAY FOR TRASH !!!!! \nEven after raising the clear possibility that this deterioration is due to mechanical stress or factory friction, you refuse to listen or take responsibility under warranty. Since LG treats its customers this way and refuses to fix a defect that came straight from your manufacturing, this AC is heading straight to the trash, and I will publish a full video exposing this scam to the world so no one else falls into your trap",
+          "author": {
+            "username": null,
+            "display_name": "Sofia Sekkat",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-22T11:35:41.408Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7485334224477179904,7485658827984416768)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_e3e7b71be6bac79d"
+      }
+    },
+    {
+      "comment_id": "comment_1733f34648a969f9",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7485638702917005313",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7485334224477179904",
+          "text": "STILL WAITING !!!!!",
+          "author": {
+            "username": null,
+            "display_name": "Sofia Sekkat",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-22T10:15:43.218Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7485334224477179904,7485638702917005313)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_1733f34648a969f9"
+      }
+    },
+    {
+      "comment_id": "comment_34c1a0f47312a942",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7480539861377159169",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7480504233910329344",
+          "text": "We understand how frustrating this must be. Please rest assured, the issue has been escalated to the relevant team, and they will contact you shortly.\n",
+          "author": {
+            "username": null,
+            "display_name": "LG Electronics India",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-08T08:34:44.663Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7480504233910329344,7480539861377159169)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_34c1a0f47312a942"
+      }
+    },
+    {
+      "comment_id": "comment_2115175cb34a7bef",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7480504233910329344",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7480868727853428736",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7480504233910329344",
+          "text": "Dear Sir/Team,\nI hope you are well\nMy name is RK Kashyap and I am applying for the position of Field Service Engineer/Service and Repairing field Engineer at your company I have 22 years of My experience in the IT service support and repairing field. My expertise includes installation, reinstall troubleshooting, services and repairing any issues solved customer site on the spot\nspeciality in Interactive Flat Panels Displays ( IFPD ) of all sizes repair \n- Smart TVs all sizes \n- Digital Kiosks all sizes \n- Touch Panels all sizes \n- Digital Standees and Display services & repairing System Support\nI have worked in the IT Field Service Engineer department and have experience in onsite service, maintenance support, and customer support. My previous company was Dixon Technologies (AP)\nYou can view my experience from the link below: Please open my video link.\n\nLinkedIn: 1 https://www.linkedin.com/in/r-k-kashyap-99954b1b9?utm_source=share_via&utm_content=profile&utm_medium=member_android\n\nWork Video: 2 https://photos.app.goo.gl/DYaa4q7YvZdbH9pb8\n\nName: Kamal Kashyap\nContact: 09873203132 / 09315152585\nQualification: 12th Pass\nExperience: 22 years\nCurrent Location: Delhi\nLast Location: Dixon Tirupati Andhra Pradesh \n\nRegards,\nKamal Kashyap",
+          "author": {
+            "username": null,
+            "display_name": "Rk Kashyap",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5635AQH6DF1WEBsbuA/profile-framedphoto-shrink_800_800/B56Z_RVajqHYAc-/0/1785923480201?e=1786611600&v=beta&t=rmRVNaEs1SlIuHfXcpPqqwYhHjj2nVRx0a9nRnaUU5I",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-09T06:21:32.540Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7480504233910329344,7480868727853428736)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_2115175cb34a7bef"
+      }
+    },
+    {
+      "comment_id": "comment_492a72fd4246752b",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7490374937707360256",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7490009056841994240",
+          "text": "Not just cooling but heating also, IAQ is key. BTW, you should convert this to a conference presentation paper possibly for the ACEK conference!",
+          "author": {
+            "username": null,
+            "display_name": "Andrew Wahome",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/C4D03AQHwhGQbUvuVAQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516955030486?e=1787788800&v=beta&t=jOn_d1QX3K-twus5IQLFqYq1-AUXEL4apXYRtStqfDQ",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-08-04T11:55:49.587Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7490009056841994240,7490374937707360256)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "EMPATHY"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_492a72fd4246752b"
+      }
+    },
+    {
+      "comment_id": "comment_21372c9e6f738776",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7490009056841994240",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7490280551275204608",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7490009056841994240",
+          "text": "There will be more demands in the cooling industry just in the near future I guess ",
+          "author": {
+            "username": null,
+            "display_name": "Stevillian Lumumba",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4D03AQEQHGykdQWeBQ/profile-displayphoto-shrink_800_800/B4DZUjTzF8HYAc-/0/1740054149715?e=1787788800&v=beta&t=GSN030Z-kZGrRmUGfdFFWNcDbuwYr1pCdzo4u7-xYVg",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-08-04T05:40:46.108Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7490009056841994240,7490280551275204608)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_21372c9e6f738776"
+      }
+    },
+    {
+      "comment_id": "comment_b8ab6fd3447b4b8f",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7482331831988559872",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7482268650729787392",
+          "text": "A textbook turnaround! Crossing 1 million AC sales in Q1 FY27 shows how fast demand flips after a soft FY26. Premiumisation and a killer summer are setting up a massive earnings recovery. ",
+          "author": {
+            "username": null,
+            "display_name": "Sudhanshu Singh",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQGppTUg0fLZew/profile-displayphoto-crop_800_800/B56ZoQimyhKEAI-/0/1761214099136?e=1787788800&v=beta&t=RSmOtH81_Rtu9bWUIlXSaOOslpMUy7cC_4sNPZXnyR4",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-13T07:15:23.749Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7482268650729787392,7482331831988559872)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_b8ab6fd3447b4b8f"
+      }
+    },
+    {
+      "comment_id": "comment_4d4ff56a50c5cf61",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7482285893895245825",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7482268650729787392",
+          "text": "Good one",
+          "author": {
+            "username": null,
+            "display_name": "Md Suhail Islam",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQEqIP5ZC1zlYw/profile-displayphoto-crop_800_800/B56ZvbWA8SIsAM-/0/1768911542537?e=1787788800&v=beta&t=E_3JWhfh2LteQvRCiIV79PLWQfjVCbMnMcoS7u1fBZE",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-13T04:12:51.255Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7482268650729787392,7482285893895245825)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_4d4ff56a50c5cf61"
+      }
+    },
+    {
+      "comment_id": "comment_1d6d75ae9270a2b5",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7482296036254863360",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7482268650729787392",
+          "text": "Insightful and well explained ✨💯",
+          "author": {
+            "username": null,
+            "display_name": "Shivam Mishra",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQEhS54twuSjmA/profile-displayphoto-crop_800_800/B56Z3iU0FRKUAI-/0/1777618602000?e=1787788800&v=beta&t=6-bQhKqStIY5CaHUfYTFNKDziUKc0QfQqZ8glMa1UPk",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-13T04:53:09.382Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7482268650729787392,7482296036254863360)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_1d6d75ae9270a2b5"
+      }
+    },
+    {
+      "comment_id": "comment_14bbaad4c37664f6",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7482283617528807424",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7482268650729787392",
+          "text": "Well explained",
+          "author": {
+            "username": null,
+            "display_name": "Dhruv Shah",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4D35AQEyFYQXuMcnAg/profile-framedphoto-shrink_800_800/B4DZ6hNMFqJcAY-/0/1780821050129?e=1786611600&v=beta&t=OmXNg0Bkk6rQtlktaWTZiQP7rOyWqjzhuc34x9eWsHo",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-13T04:03:48.526Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7482268650729787392,7482283617528807424)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_14bbaad4c37664f6"
+      }
+    },
+    {
+      "comment_id": "comment_3783335d83bc6a48",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7482268651505537024",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7482272019053584384",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7482268650729787392",
+          "text": "great post pawan",
+          "author": {
+            "username": null,
+            "display_name": "Pranav Malik",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQGhu7JfWBSzBw/profile-displayphoto-crop_800_800/B56Z8eDnm9GQAU-/0/1782915694206?e=1787788800&v=beta&t=80MthvLxViMBUGs7FUX61Y02CLPltCscc-YkMawb7cA",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-13T03:17:43.234Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7482268650729787392,7482272019053584384)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_3783335d83bc6a48"
+      }
+    },
+    {
+      "comment_id": "comment_1e6c781dca7743ae",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7488477342646845440",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7488478345354133504",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7488477342646845440",
+          "text": "سعدت بالعمل معك اخوي ابو ادم واشكر مهنيتك العاليه كل الشكر والتقدير 🌹🙏",
+          "author": {
+            "username": null,
+            "display_name": "Abdulmajeed Alkahlout",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-30T06:19:26.733Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7488477342646845440,7488478345354133504)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "APPRECIATION"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_1e6c781dca7743ae"
+      }
+    },
+    {
+      "comment_id": "comment_e9175273aa4a7795",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462184469417000960",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Good Luck 👏 ",
+          "author": {
+            "username": null,
+            "display_name": "Ronen Shahar",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-18T16:56:58.193Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462184469417000960)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_e9175273aa4a7795"
+      }
+    },
+    {
+      "comment_id": "comment_8387dcf3bd5cf57b",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462553745915043840",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "בהצלחה בתפקיד החדש 💪\n",
+          "author": {
+            "username": null,
+            "display_name": "Reuven Yochpaz",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4D03AQGCGu5Aq3VGyQ/profile-displayphoto-shrink_800_800/B4DZWBg.SKHIAg-/0/1741634661444?e=1787788800&v=beta&t=XPlmYO3nYIhhc6MSIehi-BzNiW98qt3UA6-X51GVSkA",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-19T17:24:20.571Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462553745915043840)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_8387dcf3bd5cf57b"
+      }
+    },
+    {
+      "comment_id": "comment_0b3513d27ff73a8b",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462301996210032640",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Congratulations! 🎉",
+          "author": {
+            "username": null,
+            "display_name": "Nadav Shemer",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4D03AQHT0F8iRczXPQ/profile-displayphoto-crop_800_800/B4DZfu_qDFGsAI-/0/1752061355204?e=1787788800&v=beta&t=2jlDZM06S8LQV6lE7mIe8eTLBT8iNPqO-K7HQMUd29Q",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-19T00:43:58.764Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462301996210032640)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_0b3513d27ff73a8b"
+      }
+    },
+    {
+      "comment_id": "comment_b3d59c6e2bc9b01e",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462157900069769216",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Good luck my friend! \n\n",
+          "author": {
+            "username": null,
+            "display_name": "Gal Shpun",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4D03AQFgNwXTS5dT8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1667487949717?e=1787788800&v=beta&t=50b9b0GFTW1Dpo07mUKPKhWL7eGf3R-i-PpMHeL4ZTQ",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-18T15:11:23.566Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462157900069769216)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_b3d59c6e2bc9b01e"
+      }
+    },
+    {
+      "comment_id": "comment_d0913db1208f1a92",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462390749268099072",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Bring it on champ!!",
+          "author": {
+            "username": null,
+            "display_name": "Dror Tropé",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4D03AQGPMLCa6il2oQ/profile-displayphoto-crop_800_800/B4DZ9._z83K8AI-/0/1784542089309?e=1787788800&v=beta&t=Zyc3sIWV4ntXfBlBJocAa-0efXKtvqkvqNmcbNlUVJY",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-19T06:36:39.141Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462390749268099072)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "EMPATHY"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_d0913db1208f1a92"
+      }
+    },
+    {
+      "comment_id": "comment_9191fac1613d5f47",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462232545724878848",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "בהצלחה נאור בתפקיד החדש! \nנהיה בקשר.\nמשפחת דניה עוד תתגעגע אליך",
+          "author": {
+            "username": null,
+            "display_name": "Noam Zeevi",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4E03AQHArW5kIF2mQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711719946133?e=1787788800&v=beta&t=FHN04-PeopL4VjMTzAVpJwLawelWPRvXOyx22uYW2Vg",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-18T20:08:00.478Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462232545724878848)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "EMPATHY"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_9191fac1613d5f47"
+      }
+    },
+    {
+      "comment_id": "comment_9b7929138eff2ac6",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462159080468480000",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Good luck!!!",
+          "author": {
+            "username": null,
+            "display_name": "Dan Rabinovich",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-18T15:16:04.995Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462159080468480000)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "EMPATHY"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_9b7929138eff2ac6"
+      }
+    },
+    {
+      "comment_id": "comment_96a088d654439e83",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462162293380993025",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Good luck!!!💪",
+          "author": {
+            "username": null,
+            "display_name": "Dudi Pinto",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQErYuomHfmyMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720621767769?e=1787788800&v=beta&t=KhCbsgIrH8H8ldwKwAQZ6e4JlOe5OonpjeBFH3p1gkI",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-18T15:28:51.014Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462162293380993025)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_96a088d654439e83"
+      }
+    },
+    {
+      "comment_id": "comment_db54a2d3c3ded73e",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462198049260412928",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Good luck! ",
+          "author": {
+            "username": null,
+            "display_name": "Michael Lagutin",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/C4D03AQGPd7n8m0tnBg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1611607145484?e=1787788800&v=beta&t=gpzpVdtOQNzxBlwRQZSAxDmp2PEVtfxgFCxTNwCJmsc",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-18T17:50:55.880Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462198049260412928)",
+            "reaction_counts": [
+              {
+                "count": 1,
+                "type": "EMPATHY"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_db54a2d3c3ded73e"
+      }
+    },
+    {
+      "comment_id": "comment_860c9be5e4306959",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7462116163913785345",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7462460791678541824",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7462116163104423936",
+          "text": "Good luck!",
+          "author": {
+            "username": null,
+            "display_name": "Shoval Silbert",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 1
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-05-19T11:14:58.554Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7462116163104423936,7462460791678541824)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_860c9be5e4306959"
+      }
+    },
+    {
+      "comment_id": "comment_796d9b122f3202e4",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7481222450144366592",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7481472078131503104",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7481222450144366592",
+          "text": "LG Electronics ",
+          "author": {
+            "username": null,
+            "display_name": "Deepak Chowdhary",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D4E03AQFrdwud7bd0nw/profile-displayphoto-crop_800_800/B4EZ.v_k0HKcAI-/0/1785364108109?e=1787788800&v=beta&t=ZgHcY3gWX8WaosbV5IGVLb3E7RsmBIl_07AbVHZ1nLQ",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-10T22:19:02.457Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7481222450144366592,7481472078131503104)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_796d9b122f3202e4"
+      }
+    },
+    {
+      "comment_id": "comment_e0e0ef5365aba704",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7485334979061813248",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7485334224477179904",
+          "text": "LG Electronics Morocco  LG Electronics  LG Electronics CEE  LG Electronics Air Conditioning and Energy Solution ",
+          "author": {
+            "username": null,
+            "display_name": "Sofia Sekkat",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-21T14:08:49.808Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7485334224477179904,7485334979061813248)",
+            "reaction_counts": [
+              {
+                "count": 2,
+                "type": "LIKE"
+              }
+            ],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_e0e0ef5365aba704"
+      }
+    },
+    {
+      "comment_id": "comment_e3e7b71be6bac79d",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7485658827984416768",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7485334224477179904",
+          "text": "WHEN U PAY FOR TRASH !!!!! \nEven after raising the clear possibility that this deterioration is due to mechanical stress or factory friction, you refuse to listen or take responsibility under warranty. Since LG treats its customers this way and refuses to fix a defect that came straight from your manufacturing, this AC is heading straight to the trash, and I will publish a full video exposing this scam to the world so no one else falls into your trap",
+          "author": {
+            "username": null,
+            "display_name": "Sofia Sekkat",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-22T11:35:41.408Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7485334224477179904,7485658827984416768)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_e3e7b71be6bac79d"
+      }
+    },
+    {
+      "comment_id": "comment_1733f34648a969f9",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7485334224477179904",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7485638702917005313",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7485334224477179904",
+          "text": "STILL WAITING !!!!!",
+          "author": {
+            "username": null,
+            "display_name": "Sofia Sekkat",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-22T10:15:43.218Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7485334224477179904,7485638702917005313)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_1733f34648a969f9"
+      }
+    },
+    {
+      "comment_id": "comment_bac50e899db7b170",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7484522055623925761",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7484522448609189888",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7484522053316964353",
+          "text": "LG Electronics India Please look into this ",
+          "author": {
+            "username": null,
+            "display_name": "Varun Gupta",
+            "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQHUK7SbIZuk5A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700216574874?e=1787788800&v=beta&t=nVq6kJYshgTHV3aJqwVxgHD1ZyaZt3T4pjG1xiHYjNc",
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 0
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-19T08:20:07.452Z",
+          "ext": {
+            "urn": "urn:li:comment:(ugcPost:7484522053316964353,7484522448609189888)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": null
+          }
+        },
+        "id": "comment_bac50e899db7b170"
+      }
+    },
+    {
+      "comment_id": "comment_1953135e18d2b206",
+      "post_id": "https://www.linkedin.com/feed/update/urn:li:activity:7486298818142023680",
+      "author": "",
+      "author_id": "",
+      "text": "",
+      "likes": 0,
+      "timestamp": "",
+      "geo_region": "",
+      "raw_data": {
+        "comment": {
+          "id": "7486319773065142273",
+          "url": null,
+          "parent_id": null,
+          "post_id": "7486298818142023680",
+          "text": "Hi, please be assured that the relevant team will provide you with an update as soon as possible.\n",
+          "author": {
+            "username": null,
+            "display_name": "LG Electronics India",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "likes": null,
+            "replies": 2
+          },
+          "flags": {
+            "pinned": false,
+            "deleted": false
+          },
+          "published_at": "2026-07-24T07:22:02.995Z",
+          "ext": {
+            "urn": "urn:li:comment:(activity:7486298818142023680,7486319773065142273)",
+            "reaction_counts": [],
+            "is_edited": false,
+            "previous_replies_token": "UFJFVklPVVNfMTc4NDg5MDc1MDk5NV9DTEVBTg=="
+          }
+        },
+        "id": "comment_1953135e18d2b206"
+      }
+    }
+  ],
+  "metadata": {
+    "queries": [
+      "LG AC",
+      "LG Air Conditioner"
+    ],
+    "date_range": {
+      "from": "2026-01-01",
+      "to": "2026-07-31"
+    },
+    "platform": "linkedin"
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "metadata": {
+    "platform": "linkedin",
+    "data_type": "ads",
+    "generated_at": "2026-08-17T10:21:25.020133Z",
+    "search_endpoint": "https://www.socialcrawl.dev/v1/linkedin/ads/search",
+    "detail_endpoint": "https://www.socialcrawl.dev/v1/linkedin/ad",
+    "searches": [
+      {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      {
+        "company": "LG",
+        "keyword": "Air Conditioner",
+        "countries": "IN"
+      }
+    ],
+    "search_requests": 2,
+    "search_items": 10,
+    "unique_ads": 10,
+    "detail_requests": 10,
+    "detail_success": 10,
+    "detail_failed": 0,
+    "total_records": 10
+  },
+  "items": [
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1502946206",
+      "ad_id": "1502946206",
+      "search_result": {
+        "id": "1502946206",
+        "description": "Designed to blend into modern interiors while delivering powerful comfort, the LG 1 Way Cassette AC brings together aesthetics and performance effortlessly.\n\nWith its slim profile and award-winning design, it complements contemporary spaces beautifully while ensuring efficient and comfortable cooling for everyday living.\n\nBecause great cooling should feel seamless and look elegant too.\n#LG #LGIndia #LGHVAC #1WayCassette #CassetteAC #ModernInteriors #SmartCooling #InteriorDesign #LuxuryLiving #HVACSolutions #EnergyEfficient #LifesGood",
+        "headline": null,
+        "poster": "LG HVAC Solutions India",
+        "posterTitle": "Promoted",
+        "promotedBy": null,
+        "targeting": {},
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGyYm3akVmnBg/feedshare-shrink_1280/B56Z6XISXjJsAM-/0/1780651992829?e=2147483647&v=beta&t=mTK1_7WfOMN6vxtwvYgbqTsU7Cif0kPqHIYPVaZbmcw",
+        "video": null,
+        "preRollVideo": null,
+        "organicVideo": null,
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1502946206",
+        "adType": "Single Image Ad",
+        "creativeType": "SPONSORED_STATUS_UPDATE",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": null,
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1502946206",
+            "url": "https://www.linkedin.com/ad-library/detail/1502946206",
+            "content": {
+              "text": "Designed to blend into modern interiors while delivering powerful comfort, the LG 1 Way Cassette AC brings together aesthetics and performance effortlessly.\n\nWith its slim profile and award-winning design, it complements contemporary spaces beautifully while ensuring efficient and comfortable cooling for everyday living.\n\nBecause great cooling should feel seamless and look elegant too.\n#LG #LGIndia #LGHVAC #1WayCassette #CassetteAC #ModernInteriors #SmartCooling #InteriorDesign #LuxuryLiving #HVACSolutions #EnergyEfficient #LifesGood",
+              "media_urls": "https://media.licdn.com/dms/image/v2/D5622AQGyYm3akVmnBg/feedshare-shrink_1280/B56Z6XISXjJsAM-/0/1780651992829?e=2147483647&v=beta&t=mTK1_7WfOMN6vxtwvYgbqTsU7Cif0kPqHIYPVaZbmcw",
+              "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5622AQGyYm3akVmnBg/feedshare-shrink_1280/B56Z6XISXjJsAM-/0/1780651992829?e=2147483647&v=beta&t=mTK1_7WfOMN6vxtwvYgbqTsU7Cif0kPqHIYPVaZbmcw",
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1137,
+        "request_id": "req-yN84CBIzIZUWYAL9",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1365354786",
+      "ad_id": "1365354786",
+      "search_result": {
+        "id": "1365354786",
+        "description": "The future of HVAC isn’t coming. It’s already here.Step into LG HVAC Solutions at ACREX India 2026 and explore intelligent cooling built for performance, scale, and efficiency.📍 Hall 6 | Stall C04📅 12–14 March | BEC, Mumbai#LG #LGHVAC #ACREXIndia #HVACInnovation #BuiltForTomorrow",
+        "headline": null,
+        "poster": "LG HVAC Solutions India",
+        "posterTitle": "Promoted",
+        "promotedBy": null,
+        "targeting": {},
+        "image": "https://media.licdn.com/dms/image/v2/D5610AQFbzYJl1zKxbg/image-shrink_1280/B56ZzW71RoH8Ag-/0/1773132535162/adaptsqaurepng?e=2147483647&v=beta&t=BNNUQKQwQccWiBraprA072epZDXTW4sFKapKsZGPG9I",
+        "video": null,
+        "preRollVideo": null,
+        "organicVideo": null,
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1365354786",
+        "adType": "Single Image Ad",
+        "creativeType": "SPONSORED_STATUS_UPDATE",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": null,
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1365354786",
+            "url": "https://www.linkedin.com/ad-library/detail/1365354786",
+            "content": {
+              "text": "The future of HVAC isn’t coming. It’s already here.Step into LG HVAC Solutions at ACREX India 2026 and explore intelligent cooling built for performance, scale, and efficiency.📍 Hall 6 | Stall C04📅 12–14 March | BEC, Mumbai#LG #LGHVAC #ACREXIndia #HVACInnovation #BuiltForTomorrow",
+              "media_urls": "https://media.licdn.com/dms/image/v2/D5610AQFbzYJl1zKxbg/image-shrink_1280/B56ZzW71RoH8Ag-/0/1773132535162/adaptsqaurepng?e=2147483647&v=beta&t=BNNUQKQwQccWiBraprA072epZDXTW4sFKapKsZGPG9I",
+              "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5610AQFbzYJl1zKxbg/image-shrink_1280/B56ZzW71RoH8Ag-/0/1773132535162/adaptsqaurepng?e=2147483647&v=beta&t=BNNUQKQwQccWiBraprA072epZDXTW4sFKapKsZGPG9I",
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1132,
+        "request_id": "req-womGCszBxQXUSHO2",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1503072956",
+      "ad_id": "1503072956",
+      "search_result": {
+        "id": "1503072956",
+        "description": "Corners do not stand a chance.\n\nWith perfectly balanced airflow, this cassette AC does not just cool a room, it reaches every edge with quiet confidence while keeping energy use in check. No hotspots. No overworking. Just smart cooling doing its thing.\n Because comfort should feel effortless, everywhere.\n\n#LGIndia #LifesGood #HVAC #AirConditioning #SmartCooling #EnergyEfficiency #CassetteAC #CommercialCooling #BuiltForComfort #CoolingSolutions",
+        "headline": "LG HVAC Solutions India",
+        "poster": "LG HVAC Solutions India",
+        "targeting": {},
+        "image": null,
+        "video": "https://dms.licdn.com/playlist/vid/v2/D5605AQEyx4wHhdKffg/mp4-720p-30fp-crf28/B56Z38I1u7KUB8-/0/1778051672406?e=2147483647&v=beta&t=DPc4cwzfhnPzSkrDaaZ2UKiEan4DL7HXD489D6MkKZM",
+        "preRollVideo": null,
+        "organicVideo": "https://dms.licdn.com/playlist/vid/v2/D5605AQEyx4wHhdKffg/mp4-720p-30fp-crf28/B56Z38I1u7KUB8-/0/1778051672406?e=2147483647&v=beta&t=DPc4cwzfhnPzSkrDaaZ2UKiEan4DL7HXD489D6MkKZM",
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1503072956",
+        "adType": "Video Ad",
+        "creativeType": "SPONSORED_VIDEO",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": "Learn more",
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1503072956",
+            "url": "https://www.linkedin.com/ad-library/detail/1503072956",
+            "content": {
+              "text": "Corners do not stand a chance.\n\nWith perfectly balanced airflow, this cassette AC does not just cool a room, it reaches every edge with quiet confidence while keeping energy use in check. No hotspots. No overworking. Just smart cooling doing its thing.\n Because comfort should feel effortless, everywhere.\n\n#LGIndia #LifesGood #HVAC #AirConditioning #SmartCooling #EnergyEfficiency #CassetteAC #CommercialCooling #BuiltForComfort #CoolingSolutions",
+              "media_urls": null,
+              "thumbnail_url": null,
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1127,
+        "request_id": "req-3nMXSUAPd8QydD5c",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1420503406",
+      "ad_id": "1420503406",
+      "search_result": {
+        "id": "1420503406",
+        "description": "Corners do not stand a chance.\n\nWith perfectly balanced airflow, this cassette AC does not just cool a room, it reaches every edge with quiet confidence while keeping energy use in check. No hotspots. No overworking. Just smart cooling doing its thing.\n Because comfort should feel effortless, everywhere.\n\n#LGIndia #LifesGood #HVAC #AirConditioning #SmartCooling #EnergyEfficiency #CassetteAC #CommercialCooling #BuiltForComfort #CoolingSolutions",
+        "headline": "LG HVAC Solutions India",
+        "poster": "LG HVAC Solutions India",
+        "targeting": {},
+        "image": null,
+        "video": "https://dms.licdn.com/playlist/vid/v2/D5605AQEyx4wHhdKffg/mp4-720p-30fp-crf28/B56Z38I1u7KUB8-/0/1778051672406?e=2147483647&v=beta&t=DPc4cwzfhnPzSkrDaaZ2UKiEan4DL7HXD489D6MkKZM",
+        "preRollVideo": null,
+        "organicVideo": "https://dms.licdn.com/playlist/vid/v2/D5605AQEyx4wHhdKffg/mp4-720p-30fp-crf28/B56Z38I1u7KUB8-/0/1778051672406?e=2147483647&v=beta&t=DPc4cwzfhnPzSkrDaaZ2UKiEan4DL7HXD489D6MkKZM",
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1420503406",
+        "adType": "Video Ad",
+        "creativeType": "SPONSORED_VIDEO",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": "Learn more",
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1420503406",
+            "url": "https://www.linkedin.com/ad-library/detail/1420503406",
+            "content": {
+              "text": "Corners do not stand a chance.\n\nWith perfectly balanced airflow, this cassette AC does not just cool a room, it reaches every edge with quiet confidence while keeping energy use in check. No hotspots. No overworking. Just smart cooling doing its thing.\n Because comfort should feel effortless, everywhere.\n\n#LGIndia #LifesGood #HVAC #AirConditioning #SmartCooling #EnergyEfficiency #CassetteAC #CommercialCooling #BuiltForComfort #CoolingSolutions",
+              "media_urls": null,
+              "thumbnail_url": null,
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1122,
+        "request_id": "req-lma0a9VAnUECWiFh",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1487894146",
+      "ad_id": "1487894146",
+      "search_result": {
+        "id": "1487894146",
+        "description": "Designed to blend into modern interiors while delivering powerful comfort, the LG 1 Way Cassette AC brings together aesthetics and performance effortlessly.\n\nWith its slim profile and award-winning design, it complements contemporary spaces beautifully while ensuring efficient and comfortable cooling for everyday living.\n\nBecause great cooling should feel seamless and look elegant too.\n#LG #LGIndia #LGHVAC #1WayCassette #CassetteAC #ModernInteriors #SmartCooling #InteriorDesign #LuxuryLiving #HVACSolutions #EnergyEfficient #LifesGood",
+        "headline": null,
+        "poster": "LG HVAC Solutions India",
+        "posterTitle": "Promoted",
+        "promotedBy": null,
+        "targeting": {},
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGyYm3akVmnBg/feedshare-shrink_1280/B56Z6XISXjJsAM-/0/1780651992829?e=2147483647&v=beta&t=mTK1_7WfOMN6vxtwvYgbqTsU7Cif0kPqHIYPVaZbmcw",
+        "video": null,
+        "preRollVideo": null,
+        "organicVideo": null,
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1487894146",
+        "adType": "Single Image Ad",
+        "creativeType": "SPONSORED_STATUS_UPDATE",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": null,
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1487894146",
+            "url": "https://www.linkedin.com/ad-library/detail/1487894146",
+            "content": {
+              "text": "Designed to blend into modern interiors while delivering powerful comfort, the LG 1 Way Cassette AC brings together aesthetics and performance effortlessly.\n\nWith its slim profile and award-winning design, it complements contemporary spaces beautifully while ensuring efficient and comfortable cooling for everyday living.\n\nBecause great cooling should feel seamless and look elegant too.\n#LG #LGIndia #LGHVAC #1WayCassette #CassetteAC #ModernInteriors #SmartCooling #InteriorDesign #LuxuryLiving #HVACSolutions #EnergyEfficient #LifesGood",
+              "media_urls": "https://media.licdn.com/dms/image/v2/D5622AQGyYm3akVmnBg/feedshare-shrink_1280/B56Z6XISXjJsAM-/0/1780651992829?e=2147483647&v=beta&t=mTK1_7WfOMN6vxtwvYgbqTsU7Cif0kPqHIYPVaZbmcw",
+              "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5622AQGyYm3akVmnBg/feedshare-shrink_1280/B56Z6XISXjJsAM-/0/1780651992829?e=2147483647&v=beta&t=mTK1_7WfOMN6vxtwvYgbqTsU7Cif0kPqHIYPVaZbmcw",
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1117,
+        "request_id": "req-wev58prKzHv978q6",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1376191616",
+      "ad_id": "1376191616",
+      "search_result": {
+        "id": "1376191616",
+        "description": null,
+        "headline": "Premium Cassette AC by LG",
+        "poster": "LG HVAC Solutions India",
+        "targeting": {},
+        "image": null,
+        "video": "https://dms.licdn.com/playlist/vid/v2/D5610AQGdXP1bjtpdoQ/mp4-360p-30fp-crf28/B56Z0FPGEtHwCg-/0/1773909339832/WhatsAppVideo2026-03-18at42700PMmp4?e=2147483647&v=beta&t=5Nx3oa_UoD6OvjAKbyTzDH82-zJKGdb7wEOYRdVkbyQ",
+        "preRollVideo": null,
+        "organicVideo": "https://dms.licdn.com/playlist/vid/v2/D5610AQGdXP1bjtpdoQ/mp4-360p-30fp-crf28/B56Z0FPGEtHwCg-/0/1773909339832/WhatsAppVideo2026-03-18at42700PMmp4?e=2147483647&v=beta&t=5Nx3oa_UoD6OvjAKbyTzDH82-zJKGdb7wEOYRdVkbyQ",
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1376191616",
+        "adType": "Video Ad",
+        "creativeType": "SPONSORED_VIDEO",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": "Learn more",
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1376191616",
+            "url": "https://www.linkedin.com/ad-library/detail/1376191616",
+            "content": {
+              "text": null,
+              "media_urls": null,
+              "thumbnail_url": null,
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": null,
+            "content_category": null,
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1112,
+        "request_id": "req-Zc8LJycDCXmPxa3i",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1503034816",
+      "ad_id": "1503034816",
+      "search_result": {
+        "id": "1503034816",
+        "description": "Corners do not stand a chance.\n\nWith perfectly balanced airflow, this cassette AC does not just cool a room, it reaches every edge with quiet confidence while keeping energy use in check. No hotspots. No overworking. Just smart cooling doing its thing.\n Because comfort should feel effortless, everywhere.\n\n#LGIndia #LifesGood #HVAC #AirConditioning #SmartCooling #EnergyEfficiency #CassetteAC #CommercialCooling #BuiltForComfort #CoolingSolutions",
+        "headline": "LG HVAC Solutions India",
+        "poster": "LG HVAC Solutions India",
+        "targeting": {},
+        "image": null,
+        "video": "https://dms.licdn.com/playlist/vid/v2/D5605AQEyx4wHhdKffg/mp4-720p-30fp-crf28/B56Z38I1u7KUB8-/0/1778051672406?e=2147483647&v=beta&t=DPc4cwzfhnPzSkrDaaZ2UKiEan4DL7HXD489D6MkKZM",
+        "preRollVideo": null,
+        "organicVideo": "https://dms.licdn.com/playlist/vid/v2/D5605AQEyx4wHhdKffg/mp4-720p-30fp-crf28/B56Z38I1u7KUB8-/0/1778051672406?e=2147483647&v=beta&t=DPc4cwzfhnPzSkrDaaZ2UKiEan4DL7HXD489D6MkKZM",
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1503034816",
+        "adType": "Video Ad",
+        "creativeType": "SPONSORED_VIDEO",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": "Learn more",
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1503034816",
+            "url": "https://www.linkedin.com/ad-library/detail/1503034816",
+            "content": {
+              "text": "Corners do not stand a chance.\n\nWith perfectly balanced airflow, this cassette AC does not just cool a room, it reaches every edge with quiet confidence while keeping energy use in check. No hotspots. No overworking. Just smart cooling doing its thing.\n Because comfort should feel effortless, everywhere.\n\n#LGIndia #LifesGood #HVAC #AirConditioning #SmartCooling #EnergyEfficiency #CassetteAC #CommercialCooling #BuiltForComfort #CoolingSolutions",
+              "media_urls": null,
+              "thumbnail_url": null,
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1107,
+        "request_id": "req-aZbH5OHmQBC8UuGC",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "AC",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1347595626",
+      "ad_id": "1347595626",
+      "search_result": {
+        "id": "1347595626",
+        "description": "Award-winning design, thoughtfully engineered comfort. Chosen by architects, the LG 1- Way Cassette AC pairs quiet performance with a Red Dot\nAward-winning design that blends seamlessly into modern spaces.\n\n#LGHVAC #RedDotAward #ArchitectsChoice #OneWayCassetteAC #DesignExcellence #SmartCooling #SystemAirConditioning #LifeIsGood",
+        "headline": null,
+        "poster": "LG HVAC Solutions India",
+        "posterTitle": "Promoted",
+        "promotedBy": null,
+        "targeting": {},
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEMOMTEinU68w/feedshare-image-high-res/B56Zx6kajBIcAU-/0/1771582892489?e=2147483647&v=beta&t=l8ImMwT4_JFi4H3rejFDG1a18Wl-90vJdyHmNSokguw",
+        "video": null,
+        "preRollVideo": null,
+        "organicVideo": null,
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1347595626",
+        "adType": "Single Image Ad",
+        "creativeType": "SPONSORED_STATUS_UPDATE",
+        "advertiser": "LG HVAC Solutions India",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/106473232",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+        "cta": null,
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1347595626",
+            "url": "https://www.linkedin.com/ad-library/detail/1347595626",
+            "content": {
+              "text": "Award-winning design, thoughtfully engineered comfort. Chosen by architects, the LG 1- Way Cassette AC pairs quiet performance with a Red Dot\nAward-winning design that blends seamlessly into modern spaces.\n\n#LGHVAC #RedDotAward #ArchitectsChoice #OneWayCassetteAC #DesignExcellence #SmartCooling #SystemAirConditioning #LifeIsGood",
+              "media_urls": "https://media.licdn.com/dms/image/v2/D5622AQEMOMTEinU68w/feedshare-image-high-res/B56Zx6kajBIcAU-/0/1771582892489?e=2147483647&v=beta&t=l8ImMwT4_JFi4H3rejFDG1a18Wl-90vJdyHmNSokguw",
+              "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5622AQEMOMTEinU68w/feedshare-image-high-res/B56Zx6kajBIcAU-/0/1771582892489?e=2147483647&v=beta&t=l8ImMwT4_JFi4H3rejFDG1a18Wl-90vJdyHmNSokguw",
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG HVAC Solutions India",
+              "display_name": "LG HVAC Solutions India",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQHoM_ZVdTaWxg/company-logo_100_100/B56ZYPBR9qHEAY-/0/1744008716620?e=1788393600&v=beta&t=KBuqXgTm6XyX0ofzBjXU9kRLEq-mn_AkRyX0-ZJFYQU",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1102,
+        "request_id": "req-uvEfdId2ijzmyIO0",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "Air Conditioner",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1409540726",
+      "ad_id": "1409540726",
+      "search_result": {
+        "id": "1409540726",
+        "description": "LG Electronics has been recognized with a total of 27 awards at the 2026 Red Dot Design Award, including the prestigious “Best of the Best” honor for the LG OLED evo W6 Wallpaper TV.\n\nCombining LG’s True Wireless technology with its iconic Wallpaper Design, the OLED evo W6 features a nine-millimeter-class-thin profile that sits flush against the wall, delivering a clean and uncluttered viewing environment.\n\nLG’s human-centered design approach was also recognized across a wide range of products, from refrigerators and air conditioners to home audio systems. In addition, innovative solutions from future-growth businesses, including the LG CLOiD home robot and LG Therma V AWHP indoor units, further highlight the company’s design competitiveness.\n\nhttps://lnkd.in/gb5VxkyB\n\n#LGElectronics #RedDotDesignAward #BestoftheBest #DesignInnovation #HumanCenteredDesign",
+        "headline": "LG Electronics Honored for Design Excellence at the 2026 Red Dot Design Award",
+        "poster": "LG Electronics",
+        "targeting": {},
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHsP-AwWdHMNQ/feedshare-image-high-res/B56Z3whMneIUAU-/0/1777856727764?e=2147483647&v=beta&t=1d5sX-UDxbW4rI0FPHa-2Rcbi3fBsyG_pAXxwkCIzOU",
+        "video": null,
+        "preRollVideo": null,
+        "organicVideo": null,
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1409540726",
+        "adType": "Single Image Ad",
+        "creativeType": "SPONSORED_STATUS_UPDATE",
+        "advertiser": "LG Electronics",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/3503",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQGN7rHQ0dPpPw/company-logo_100_100/company-logo_100_100/0/1694507080864/lg_electronics_logo?e=1788393600&v=beta&t=5dL7K_jr2_JGRADAuyEzRTXou5N32jNY7-82n3Gt7-g",
+        "cta": null,
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1409540726",
+            "url": "https://www.linkedin.com/ad-library/detail/1409540726",
+            "content": {
+              "text": "LG Electronics has been recognized with a total of 27 awards at the 2026 Red Dot Design Award, including the prestigious “Best of the Best” honor for the LG OLED evo W6 Wallpaper TV.\n\nCombining LG’s True Wireless technology with its iconic Wallpaper Design, the OLED evo W6 features a nine-millimeter-class-thin profile that sits flush against the wall, delivering a clean and uncluttered viewing environment.\n\nLG’s human-centered design approach was also recognized across a wide range of products, from refrigerators and air conditioners to home audio systems. In addition, innovative solutions from future-growth businesses, including the LG CLOiD home robot and LG Therma V AWHP indoor units, further highlight the company’s design competitiveness.\n\nhttps://lnkd.in/gb5VxkyB\n\n#LGElectronics #RedDotDesignAward #BestoftheBest #DesignInnovation #HumanCenteredDesign",
+              "media_urls": "https://media.licdn.com/dms/image/v2/D5622AQHsP-AwWdHMNQ/feedshare-image-high-res/B56Z3whMneIUAU-/0/1777856727764?e=2147483647&v=beta&t=1d5sX-UDxbW4rI0FPHa-2Rcbi3fBsyG_pAXxwkCIzOU",
+              "thumbnail_url": "https://media.licdn.com/dms/image/v2/D5622AQHsP-AwWdHMNQ/feedshare-image-high-res/B56Z3whMneIUAU-/0/1777856727764?e=2147483647&v=beta&t=1d5sX-UDxbW4rI0FPHa-2Rcbi3fBsyG_pAXxwkCIzOU",
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG Electronics",
+              "display_name": "LG Electronics",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQGN7rHQ0dPpPw/company-logo_100_100/company-logo_100_100/0/1694507080864/lg_electronics_logo?e=1788393600&v=beta&t=5dL7K_jr2_JGRADAuyEzRTXou5N32jNY7-82n3Gt7-g",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1092,
+        "request_id": "req-EUJbqWbmTpdnkTiB",
+        "cached": false
+      },
+      "detail_status": "success"
+    },
+    {
+      "query": {
+        "company": "LG",
+        "keyword": "Air Conditioner",
+        "countries": "IN"
+      },
+      "ad_url": "https://www.linkedin.com/ad-library/detail/1488724426",
+      "ad_id": "1488724426",
+      "search_result": {
+        "id": "1488724426",
+        "description": "The rapid expansion of AI is driving unprecedented investment in AI data center infrastructure worldwide. To support this transformation, investment is increasingly shifting beyond compute performance toward the foundational infrastructure required for reliable, energy-efficient, and resilient operations.\n \nAt LG Electronics, that means delivering value across every stage of AI infrastructure:\n \n✔ Trusted by leading AI infrastructure providers, backed by proven AI data center cooling solutions.\n✔ Built on decades of thermal management expertise to maximize performance and energy efficiency.\n✔ Bringing together the strengths of the LG Group to enable an end-to-end AI infrastructure ecosystem.\n✔ Supporting customers beyond deployment with intelligent monitoring, predictive maintenance and lifecycle services.\n \nProud to see The Straits Times highlight how One LG is helping organizations build AI infrastructure that is scalable, resilient and ready for the AI era.\n \n#AIDataCenter #AIInfrastructure #HVAC\n \nhttps://lnkd.in/gcpqNVwG",
+        "headline": "From living rooms to server rooms: This home appliances brand is bringing physical AI to the region’s data centres",
+        "poster": "LG Electronics",
+        "targeting": {},
+        "image": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFD7BknanvR5w/articleshare-shrink_1280_800/B4EZ77O8gtKwAo-/0/1782331460578?e=2147483647&v=beta&t=DnTcl9rq7xuQYUcUV73u9JKjwUYmelf0wrATKoKDeQ4",
+        "video": null,
+        "preRollVideo": null,
+        "organicVideo": null,
+        "preRollAdvertiser": null,
+        "carouselImages": [],
+        "url": "https://www.linkedin.com/ad-library/detail/1488724426",
+        "adType": "Single Image Ad",
+        "creativeType": "SPONSORED_STATUS_UPDATE",
+        "advertiser": "LG Electronics",
+        "advertiserLinkedinPage": "https://www.linkedin.com/company/3503",
+        "advertiserLogo": "https://media.licdn.com/dms/image/v2/D560BAQGN7rHQ0dPpPw/company-logo_100_100/company-logo_100_100/0/1694507080864/lg_electronics_logo?e=1788393600&v=beta&t=5dL7K_jr2_JGRADAuyEzRTXou5N32jNY7-82n3Gt7-g",
+        "cta": null,
+        "sponsoredMessageSender": null,
+        "sponsoredMessageSenderAvatar": null,
+        "sponsoredMessageButtons": [],
+        "destinationUrl": null,
+        "landingPage": null,
+        "adDuration": "",
+        "startDate": null,
+        "endDate": null,
+        "totalImpressions": null,
+        "impressionsByCountry": []
+      },
+      "ad_details": {
+        "success": true,
+        "platform": "linkedin",
+        "endpoint": "/v1/linkedin/ad",
+        "data": {
+          "post": {
+            "id": "1488724426",
+            "url": "https://www.linkedin.com/ad-library/detail/1488724426",
+            "content": {
+              "text": "The rapid expansion of AI is driving unprecedented investment in AI data center infrastructure worldwide. To support this transformation, investment is increasingly shifting beyond compute performance toward the foundational infrastructure required for reliable, energy-efficient, and resilient operations.\n \nAt LG Electronics, that means delivering value across every stage of AI infrastructure:\n \n✔ Trusted by leading AI infrastructure providers, backed by proven AI data center cooling solutions.\n✔ Built on decades of thermal management expertise to maximize performance and energy efficiency.\n✔ Bringing together the strengths of the LG Group to enable an end-to-end AI infrastructure ecosystem.\n✔ Supporting customers beyond deployment with intelligent monitoring, predictive maintenance and lifecycle services.\n \nProud to see The Straits Times highlight how One LG is helping organizations build AI infrastructure that is scalable, resilient and ready for the AI era.\n \n#AIDataCenter #AIInfrastructure #HVAC\n \nhttps://lnkd.in/gcpqNVwG",
+              "media_urls": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFD7BknanvR5w/articleshare-shrink_1280_800/B4EZ77O8gtKwAo-/0/1782331460578?e=2147483647&v=beta&t=DnTcl9rq7xuQYUcUV73u9JKjwUYmelf0wrATKoKDeQ4",
+              "thumbnail_url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFD7BknanvR5w/articleshare-shrink_1280_800/B4EZ77O8gtKwAo-/0/1782331460578?e=2147483647&v=beta&t=DnTcl9rq7xuQYUcUV73u9JKjwUYmelf0wrATKoKDeQ4",
+              "duration_seconds": null
+            },
+            "author": {
+              "username": "LG Electronics",
+              "display_name": "LG Electronics",
+              "avatar_url": "https://media.licdn.com/dms/image/v2/D560BAQGN7rHQ0dPpPw/company-logo_100_100/company-logo_100_100/0/1694507080864/lg_electronics_logo?e=1788393600&v=beta&t=5dL7K_jr2_JGRADAuyEzRTXou5N32jNY7-82n3Gt7-g",
+              "verified": null
+            },
+            "engagement": {
+              "views": null,
+              "likes": null,
+              "comments": null,
+              "shares": null,
+              "saves": null
+            },
+            "flags": {
+              "nsfw": null,
+              "spoiler": null,
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": null
+          },
+          "computed": {
+            "engagement_rate": null,
+            "language": "en",
+            "content_category": "other",
+            "estimated_reach": null
+          }
+        },
+        "credits_used": 5,
+        "credits_remaining": 1087,
+        "request_id": "req-sBASh8SqtEizOf26",
+        "cached": false
+      },
+      "detail_status": "success"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "platform": "twitter",
+  "endpoint": "/v1/twitter/ai-search",
+  "data": {
+    "answer": "**@DaikinIndia has recently been posting almost exclusively customer service responses** (as of the latest data from August 17, 2026).[[1]](https://x.com/DaikinIndia/status/2089299803717214440)\n\nThese replies typically:\n- Apologize for any inconvenience\n- Ask users to share complaint numbers, contact details, addresses, or dealer names via direct message (DM)\n- Confirm that issues have been escalated to the relevant team\n\nAll 10 most recent posts follow this pattern, with no promotional content, product announcements, or other topics visible in the latest activity.[[2]](https://x.com/DaikinIndia/status/2089299703129342443)\n\nThis suggests their account is primarily used for handling customer complaints and support queries in real time. If you'd like details on a specific post or older activity, let me know!",
+    "sources": [
+      {
+        "url": "https://x.com/DaikinIndia/status/2089299803717214440",
+        "title": "1"
+      },
+      {
+        "url": "https://x.com/DaikinIndia/status/2089299703129342443",
+        "title": "2"
+      }
+    ],
+    "tool_calls_count": 1
+  },
+  "credits_used": 5,
+  "credits_remaining": 931,
+  "request_id": "req-A3qm9xYPjQU8zpe5",
+  "cached": false
+}

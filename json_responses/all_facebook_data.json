@@ -1,0 +1,546 @@
+{
+  "platform": "facebook",
+  "facebook_page": "https://www.facebook.com/DaikinIndia/",
+  "requested_date_range": {
+    "start_date": "2026-01-01",
+    "end_date": "2026-08-18"
+  },
+  "summary": {
+    "facebook_posts_received": 3,
+    "posts_in_date_range": 3,
+    "posts_saved": 3,
+    "comments_extracted": 12
+  },
+  "posts": [
+    {
+      "platform": "facebook",
+      "post_id": "1499285605572249",
+      "post_url": "https://www.facebook.com/DaikinIndia/posts/pfbid02zEPUXAyDgRYXRzqE6EKEC82djk12SxAsyVXz1dJd7ynd5wRG9CpdEJ88fHTKsqGkl",
+      "post_date": "2026-08-16T15:32:16",
+      "post_text": "Bring together style and comfort with Daikin's One-Way Cassette. Its sleek design blends seamlessly into modern interiors while delivering reliable cooling performance.\n\n#DaikinIndia #TheAirSpecialist #OneWayCassette",
+      "comments_count_extracted": 2,
+      "comments": [
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk5Mjg1NjA1NTcyMjQ5XzEwNjUwNjcwMjk2MDkzMDk=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Kisi bhi company ka AC Le Lena bhai logon lakin Dakin ac kabhi mat lena",
+            "author": {
+              "username": "pfbid022DpkBNz4ZXfBnH8x5MruFtevadax6VddZSSm42DZDUQ7nWjKLvBKaDZiQCrGeUnYl",
+              "display_name": "Dhiraj Yadav",
+              "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/556613433_2016378909104165_893557689921577081_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_ohc=I0wgEl6PjcEQ7kNvwFEt2aP&_nc_oc=AdqV5sTYhDnuEjm0G3_eHexzNK3tep0EDJk1mareZ5rcR2NgFxUaOlJJoxfmIuKE42A&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=skAinN98wRmkksILt9qqbw&_nc_ss=7f289&oh=00_AQGIulM-DBSEBVHJmM0UbXt1WhXuVHo6e2uZJvj78su8vg&oe=6A8A06AA",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 1
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-18T08:18:58.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5OTI4NTYwNTU3MjI0OV8xMDY1MDY3MDI5NjA5MzA5",
+              "expansion_token": "MjoxNzg3MDQ1NzUwOgF_LZlrDRBtGl874IqkpSxxbDXsfhU7qbPTbvyM11c97ip9ApqffA4r_I-nEbYQVccBYOsL5mHtu1OPru4qFdSjoHMRDwde8ihoQG9hnh9ctZK0vO8eK-SxEOSk3dmRODEONkWy3-6ZPuiwBIWN1Ro1b2UFv-EcW1H2wpaDLmDCMotB5shparWyqlbXs8xVGBci7Py743zhUt3I_OfO-fKJn6Sre4MjEptI9oHvEBy3a3edNJ-BiafT6urZA0PyLHM-Hta8eZ4Y3zpWLXy9Nx2eCn2Hkx168pD6V5M94sKVTZA8BXBafJSJwBeji8RZw0d8rSIsT3WiJyc6mYS6ggPRuSS0j7hanWElU5z-mWWzVmhEeBxLGtPLh3kNdPKgFpJgHWG3wv8-vy8KlI6SfiBG7BYoeRncdT6yRg82zr6R1_N4pKh7dO9FQjR0vNpf1n1UXpxpJkMmCTr6LeowbcQlZeYnB6_1OyYcen7LJBvEwImQdw615SEH79jyl4kb7rvXKVuRJlfJEd_F33NnIaNVnF_y81ksyZF1c8TY"
+            }
+          },
+          "computed": {
+            "language": null
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk5Mjg1NjA1NTcyMjQ5XzMxOTgzNDEwOTAzNjYwMTY=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "No vaccum by service centre at try of instalation in faridabad nit 121001 poor service",
+            "author": {
+              "username": "pfbid028y87LJZT54p2ymGa94S95EH3NMcbYrcD6F2PoBs1ih8GXkUyQgfdNsZhbwQDYY4Jl",
+              "display_name": "Tamanna Kalra",
+              "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/391726618_289720134007717_4617286371722276853_n.jpg?stp=cp0_dst-jpg_p64x64_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8KCFATEHb3MQ7kNvwF-nyNL&_nc_oc=AdqlxiLizQGrFIKcEWvcXJSLBD9XkioyMo68_S38y10r_OYIYQ4cz9R437YWXJbfRuA&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=skAinN98wRmkksILt9qqbw&_nc_ss=7f289&oh=00_AQFgw4XebY_-rCTMPyxq5R1dCZx1mumekFisToWiqgXw4A&oe=6A89F761",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-17T05:04:18.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5OTI4NTYwNTU3MjI0OV8zMTk4MzQxMDkwMzY2MDE2",
+              "expansion_token": "MjoxNzg3MDQ1NzUwOgF_7fI4dxemKXYeaj6iLsm5OmBLcjRnHkLu8IFo56s6P1lVZpGFbEs43WVVYFfxwuqXSLvkruWQ2sYlDxKlJW0al-X84I3PAy23_SO8xZx2w5lSoRgpEQ1NRp1FfqnBsWQq18QjMg6HbyzbNvstyEN7JXKnKQ9UxvWh69tXV0NUf-qGVqtVvcN-Mun5KPkdxcGpL6rFU1pwkOYssLNqMT7GeP6gX1i4EaR1mBHcc8ssIGp8gDQhCNUT1oagrW57PIDSgquOOuyt_uNoDfLn6D8UC4OYrEMDDOk_pPXza47sKSmv3Dp78VCuJwvDh3_ALxxgptDFan_N8ig9BjLqgE9XqwDg9FmBCepNeKCMs-1EErk9YGhR8O-I8Hx21PLHCulaLFkOvTmV4dkdlkzjDyHu4J5sC8kiFEJSTrwoN0xswVe9DW_Twkn22pBX27ny1JZm3Ig4a29JqcXmTUJrYLWTZKB955zZtqks3lXKoZXMBnCXEUKMay0eqbqhV60SlUXIQuV87lZXdSSGh41KS5aWfT-mPsSG7CQxS5nq"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        }
+      ],
+      "raw_post": {
+        "post": {
+          "id": "1499285605572249",
+          "url": "https://www.facebook.com/DaikinIndia/posts/pfbid02zEPUXAyDgRYXRzqE6EKEC82djk12SxAsyVXz1dJd7ynd5wRG9CpdEJ88fHTKsqGkl",
+          "content": {
+            "text": "Bring together style and comfort with Daikin's One-Way Cassette. Its sleek design blends seamlessly into modern interiors while delivering reliable cooling performance.\n\n#DaikinIndia #TheAirSpecialist #OneWayCassette",
+            "media_urls": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/775524222_1499285378905605_5593027302153207301_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8VeX5qi9CZsQ7kNvwFGm4rI&_nc_oc=AdoPINbuECBmj931ImHmHqqB3YnmnWQ6D4VKgKAmJ4aHEfOMw_5mVAFFOrqcwY-L1eA&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=oj3U4MyhybuTtKlUjfRNoQ&_nc_ss=7f289&oh=00_AQFLpFVOVfqOxP12yeCdC_hqg-Zmaknmm0EZFyud9V_e4w&oe=6A8A06E2",
+            "thumbnail_url": null,
+            "duration_seconds": null
+          },
+          "author": {
+            "username": null,
+            "display_name": "Daikin India",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "views": null,
+            "likes": 30,
+            "comments": 6,
+            "shares": null,
+            "saves": null
+          },
+          "flags": {
+            "nsfw": null,
+            "spoiler": null,
+            "pinned": null,
+            "deleted": false
+          },
+          "published_at": "2026-08-16T15:32:16.000Z",
+          "ext": {
+            "author_id": "100064724704668",
+            "published_at_epoch": 1786894336
+          }
+        },
+        "computed": {
+          "engagement_rate": null,
+          "language": "en",
+          "content_category": "other",
+          "estimated_reach": null
+        }
+      }
+    },
+    {
+      "platform": "facebook",
+      "post_id": "1497815365719273",
+      "post_url": "https://www.facebook.com/reel/1875127353896043/",
+      "post_date": "2026-08-15T02:30:16",
+      "post_text": "This Independence Day, celebrate the joy of being together, making memories, and enjoying every moment in complete comfort. \n\nHappy Independence Day!\n\n#IndependenceDay #DaikinIndia",
+      "comments_count_extracted": 2,
+      "comments": [
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk3ODE1MzY1NzE5MjczXzE0OTA0MTczNTY0NjEwNDc=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Kisi bhi company ka AC Le Lena bhai logon lakin Dakin ac kabhi mat lena",
+            "author": {
+              "username": "pfbid022DpkBNz4ZXfBnH8x5MruFtevadax6VddZSSm42DZDUQ7nWjKLvBKaDZiQCrGeUnYl",
+              "display_name": "Dhiraj Yadav",
+              "avatar_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/556613433_2016378909104165_893557689921577081_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_ohc=I0wgEl6PjcEQ7kNvwH8dIoG&_nc_oc=AdrpOlWbGfQX1oPuhE7cOviMJ5ArIK4u0sPTAJEZV9LQbo4DjtgIEr8mn-seqqiwvbI&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=LO6laRSAq05EPAjp3XJhhw&_nc_ss=7f289&oh=00_AQFVErc6YeUsO6qyoM7Fnms2cqOROfDWumuffArs_mndLA&oe=6A8A06AA",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-18T08:32:21.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5NzgxNTM2NTcxOTI3M18xNDkwNDE3MzU2NDYxMDQ3",
+              "expansion_token": "MjoxNzg3MDQ1NzUzOgF_fiOxqxylBGxMeac9lBfnHDaEdWEUyUO2ZIYw6SA7wEiPQKnwF7TW-JZwQ4FvUzkpq8hgmCU7F8nBKhq3bwI-mhLY9KL44Z3UE5OVegzjgXfp37fgQ0DwKf14ULqUONINxr11IUasQmmhnj_hAt_veMD44xkvcNZvsk3TsGj0lSPzOk67tD9_xeGP11hNstOc9OAWtoSJhUn0zJwt-X0-y_SxefTu4ewOwqBawZeoGzztm3vdXb0a0Xf4oKb_USi95tlZd2KZQGVlg5_1_yo19yd8arxURz0zPJU8ViZjlVrU5kqKVH5joSW4QaAEe3rOvEfpM5qpYd8udZ3TzAu9as1M8Zri6KLWUS9GvsiuVFbJY2cKPzyqnwX3DAGGKQiIIL2RV5JgF0KvEetj1hAKx7MJF9fYEFImZwCL6ncGvQ8w9ONEfXxctT0BAfeL3grLRSSdbS9YqK15lXbEzwymObSmM7UtM4nz1fGfhY-bd5RVzUv77t0_gjEbz55J8XkpPizGMT2n0JXec9iRDRpqaMYrAP7BKbZO8A2V"
+            }
+          },
+          "computed": {
+            "language": null
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk3ODE1MzY1NzE5MjczXzE3MDA4OTQ3NDEyMDkyMjM=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "On Spot Cool point Ghaziabad",
+            "author": {
+              "username": "pfbid036ELAhdv5dLi6KaTEAmpjj1qcazMAH7fWowHvAg9vYZAVhL5g64Ho6fcAYRgGafg9l",
+              "display_name": "Smith Singhal",
+              "avatar_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/653822317_26610940201859257_5147930994793280962_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=2861fvyx5ycQ7kNvwGSTymH&_nc_oc=Adr5vmpUabX6Kn8UVlIhjtwgv4mNwKt6z1SnEY5XxTAofnY4oBvHbPhFoYXGMhyCL3s&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=LO6laRSAq05EPAjp3XJhhw&_nc_ss=7f289&oh=00_AQHranNmU8X8GnQ5EfFBELlGZMtGwdj90KtZ0RljvfKZVg&oe=6A89FC8E",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-16T19:37:40.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5NzgxNTM2NTcxOTI3M18xNzAwODk0NzQxMjA5MjIz",
+              "expansion_token": "MjoxNzg3MDQ1NzUzOgF_CgC_AKBvGf8rqq0RDrDQ7Ut4dapz1ok4caL5GzLYUiCJ_xnp6GQRaiR2ted7lCEAchAYetIGihP5Vk_0Ved3jJJdALpikNSKCchfKitT4Xj3WBhBgrQSoCr0sg3zpoLWmcbQWI6WZf3GpACt1l6vKqKIX-Iw0wC1QRLfngylhQUaX0gkke7xf8N4qQi82rv9qvnydKNVQ2An5O7uOSvoKPG5jLkDl-KkGJqADaRzS1FPIoSiuOTfXuNRUK3dRe7DavTUsqfMMMDxgCXbUY3uhyQ6JEO-0RPZ2BVavmj9BDXvPxRMTByrHuPx-bRwbsM9B2TQMojOqxEFEQFZ2bXWQqtBxHAH_ZzbL8BuegwJ794qd-KDFpB2BVBjnvwH10XoBwGG4AO5OgbYCb5rG_u-rrWaxlnaVwMZ4wn0YaxjbnPquyCuKAKncPsww-_VjwnK2L6b2uII6-e7LKszDvi9v0aXXwMv5WbD5AQhUjG8OuAu1xPkJciQrQp4kPFpn6W7UZj7-OeWaCMjYU2iuzm0KiZfFT5GvmZz-LXB"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        }
+      ],
+      "raw_post": {
+        "post": {
+          "id": "1497815365719273",
+          "url": "https://www.facebook.com/reel/1875127353896043/",
+          "content": {
+            "text": "This Independence Day, celebrate the joy of being together, making memories, and enjoying every moment in complete comfort. \n\nHappy Independence Day!\n\n#IndependenceDay #DaikinIndia",
+            "media_urls": "https://scontent-bos5-1.xx.fbcdn.net/v/t15.5256-10/773850155_1544835169883421_7153728603486291587_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=109&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Y7FOCIQ_fBgQ7kNvwHRIMjm&_nc_oc=AdpZhxG16Epv856STJiwDPmTOOt-cKJEa5zlHTF8sRGxv75WByrJmFvcF1yJgSYT5G8&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=oj3U4MyhybuTtKlUjfRNoQ&_nc_ss=7f289&oh=00_AQEE97bJbXII9OkyeS3pdCyBXoyuKIES68CWcYmfQx2CZw&oe=6A8A047C",
+            "thumbnail_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t15.5256-10/773850155_1544835169883421_7153728603486291587_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=50ce42&_nc_ohc=Y7FOCIQ_fBgQ7kNvwHRIMjm&_nc_oc=AdpZhxG16Epv856STJiwDPmTOOt-cKJEa5zlHTF8sRGxv75WByrJmFvcF1yJgSYT5G8&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=oj3U4MyhybuTtKlUjfRNoQ&_nc_ss=7f289&oh=00_AQHLh3PAWN8ej77rBE0A9mRG2ItDwPccEYejkHF1aPaefw&oe=6A8A047C",
+            "duration_seconds": null
+          },
+          "author": {
+            "username": null,
+            "display_name": "Daikin India",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "views": null,
+            "likes": 48,
+            "comments": 5,
+            "shares": null,
+            "saves": null
+          },
+          "flags": {
+            "nsfw": null,
+            "spoiler": null,
+            "pinned": null,
+            "deleted": false
+          },
+          "published_at": "2026-08-15T02:30:16.000Z",
+          "ext": {
+            "author_id": "100064724704668",
+            "published_at_epoch": 1786761016
+          }
+        },
+        "computed": {
+          "engagement_rate": null,
+          "language": "en",
+          "content_category": "other",
+          "estimated_reach": null
+        }
+      }
+    },
+    {
+      "platform": "facebook",
+      "post_id": "1496964345804375",
+      "post_url": "https://www.facebook.com/DaikinIndia/posts/pfbid0yys4eCrFoKxXf36L3e7ZcHSe7nKogfPsFaP3hhxsUpCUsFNQugkgUr44rC9fMWcPl",
+      "post_date": "2026-08-14T05:59:18",
+      "post_text": "A full house calls for Heavy Duty cooling. Daikin's 5 Star ACs are built to provide reliable cooling, keeping every corner of your home comfortable.\n\n#DaikinIndia #HeavyDutyCooling",
+      "comments_count_extracted": 8,
+      "comments": [
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzIyMDE2MjA4NTczNTMxNDI=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Best ever Air-conditioned",
+            "author": {
+              "username": "pfbid0UjPp9xoCWME44qWhBB4YRumEuKeeub7dRte7T2uQJFuaDBvBL6ULVGyvbaYt6Ehel",
+              "display_name": "Henry Gblonyah",
+              "avatar_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t1.6435-1/71324633_134615394559129_4749285071100313600_n.jpg?stp=c0.0.480.480a_cp0_dst-jpg_s64x64_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=DxDIcMvPIbUQ7kNvwHchTAa&_nc_oc=AdrRUvqnyP3_Rp1zrwbS3fQfrqlMPQKj-7LyfI_y9aYS1Es6D1pznrajQM4Erp7XuR0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQG-yMeKLpl3YZ0HonoF3cTRT9MzLqGeGX_nPYsLaHJfig&oe=6AABB123",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-17T17:28:20.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8yMjAxNjIwODU3MzUzMTQy",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_EL0ZxuYVtc2qgwBMDjRoK1jt84YB_KjGDBydwh45YUzIktYCvZeurzYPT_3mt6z8ysnon-nCsom0G6MeviyejX0F7zEkXrBhBmKgIf0SgxSadiMwW7ox_YVnmnOYB9r06ggJKH3LlcK0mTlTRBraLmjA4w2aeQuZpwMPlo9V2dSXfVSSpnMVJMkt7reHK_i6iX32h7dCo9HgqDD6UtytXhoDFB1iYIC2C5WYQg2yDLS8AUH6OuuXV8BN4HdKcVFJFgI5FoAEPKArwguvEZNYGZCcKyjCaKXvCoNbeQXspjFqHX70_O1QcWQPwKwsaQ-Pw4rWOvzJydN2eXtNNQQsKuoBAR1a0v3kzjOHMA6bukYOgTasssPaYGU9m0G663fwbO7ONcHJPCLnLrZdtstDiRIKbfyPcn8zj9iWFiOtp9uZ_Xjo778sBrsWyUQpb1vwsP0SZdD4mVixeFYOQI0ddw93hs3zA66zNKkEsq5RQZ_UL9Ix18eopjhfSvqciqfThzIsJBHA6tCvF_irrbxs6RS7SdyonOs66Goe"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzE1ODk5MTc5NjkxNTk1MzA=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Hi @daikinindia, I have emailed customer support regarding a warranty claim for my non-functional Daikin AC, but I have not received any response or resolution for the last 48 hours.\n\nDespite multiple emails and the unit being covered under the 5-Year Comprehensive Warranty, there is no technician assigned yet. We are suffering in this severe summer heat. Please check my issue and arrange a technician visit urgently.\n\n#DaikinIndia #DaikinAC #CustomerService #DaikinSupport #ConsumerComplaint #UnsatisfactoryService #SummerHeat",
+            "author": {
+              "username": "pfbid02eARh9uN9H6QQE2F7xkiVXnqdNSQgEyPcDUu3WdVYRgqvr8gRw5NiVLnzEwaEm4Uil",
+              "display_name": "शुभम श्रीवास्तव",
+              "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-1/37768735_1643494805759872_2612543733308063744_n.jpg?stp=c0.0.479.479a_cp0_dst-jpg_s64x64_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_ohc=JIa5HJb64jkQ7kNvwGdn4FO&_nc_oc=Adqb9-cIGoDzbkCqGqMrl0z_bV60QwwZSBlPbTParQreyAgRf5NJfW1zMuCmwLwqYFE&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQHYAzVekub8uG8kFu6fkHcIGZuETI_Adlv6NF0BJtIvzw&oe=6AAB8AE1",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 1
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-17T14:57:22.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8xNTg5OTE3OTY5MTU5NTMw",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_zmScT71kSLXB0MMJ_V4vLwOIhKVM9kRXy-fWj-stALpdPKH_7nh2LG7v_mNSQa1hNtXdYPoO0D0GdqRZeOlbYDR5Rh-FWW79BzCVfjZEUZ-FV4ONFU-R80s_U8YwtsPm0N6_Zfc3xWFmJyIJMnstSB7BcXxGxKC3pr8T6TXD6kcBs32q6FoYYAngtD4-scm_Rj80s1YWPja9lKu2OyMVd8C9YVogb4irnkP_S2h87EOaoGET6AiHA3-fZtRiz3YJv1Q7nxLlR8BjGgzL-TDRpmhG_99J2qVotFcoCEsi1fAqKhGknuQruRSsTZmF-3TxmTBBq2Tx1oYG264aaUzx3fhTnC6k3zL6fj9S4NY5IWBNBh92lGtOhkkyFfCbNuAh0SmWTgFrkWxg8Y6blfFsc-14Oi1F3cPSJgRXxP4HaGC7nwzfuThOPM2UCL-B8oOpAI-JjZJimp4wuqtVoOb0I3gvWy9nmV6cs_xa21Awg0w0KVC7j5IVDxJXKEwH9Qio9Es4a4ECEX94u4NT7vJwzDCldPaWl1xYlgJM"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzE1NzA1MTYzMjgxMDM3NzI=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Worst after sales service. My split AC goes into breakdown twice a month. Technicians who visit are only bothered about their service charges. Plz look into this matter",
+            "author": {
+              "username": null,
+              "display_name": "Shahzad Hasnain",
+              "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/727551106_27491800217118476_8536935750155688817_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=ANG64OJWrP0Q7kNvwFAksaD&_nc_oc=Adro8SggT2ho26SR8QZJbt8cuZwWZphHH2dYewnD1Bg3xOExfnPPcuM-hY601FCxZ-4&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQFUnMPi7VILWgorkNepZsDuCEEI_OdjPLSJ8DbuCK2lrw&oe=6A8A025B",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 1
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-18T08:13:21.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8xNTcwNTE2MzI4MTAzNzcy",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_5znlt9y8BwKjqu8sLCTYYHrVvkzSnOfHSuNNWb0li4RKE1Vq3ARhobJkJXNobxMSTN46j8XgTB3ZXEzd7Efl6fcxlhlGUnaObV4-B-nmeRUfDDsEqr8ApaW7V2wBWHWFLxNcwqXlWwM0A8nbonJ88UjyzVd50YBf-wKOsD1pUacBuKXUKQMt0_VcTrEEl0nHbA_41PXYDRmw56D9wQY_Q2_-MUXLXNDWqj2ZBSfghnPH3ShA63M9eIQyIeUK2brLjM_IzPAc6vrLuv1MeuDFV4Ib61m3wx0V7Yw7PQePpgCaTRgIjbkVpgIFLt8MYCi-ENY7zGHzu5ukUF3Ab4XBZzf7h8N8UEInfaDtnmEsxg6TdRmM8wdeTCNMJviKHUnUmW7ktr5AomTYLn1ohCgCu85ssCYjW8xuk5kzVbpR2sjefRo5MD4ZdSbCEzA3Q2Q1gg0FtdqlkDHMx7ixUz4suV8QhlmPSxW3SOjn-E8rpZ1ckpkYJ8zP54egWEmGLF54AhnNrgeqnkvTYUV515o58RWnPeGhdaFzzNWE",
+              "author_id": "100001456034749"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1Xzk5OTQ1MTMyNjQ2MDk3NA==",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "I have a unit in Smartworld Orchard, sector 61 Gurgaon Haryana.. My VRV ACs are not working. Several times I have lodged complaint, they will rectify but again they will not work",
+            "author": {
+              "username": "pfbid038FjRDWFod9SwThe5rKkunkcdzmAD3nXcVyPLywsi1DDNLwTddnmsAL9gYtjMo9mdl",
+              "display_name": "Brijendra Singh Bhadauria",
+              "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/297451454_5473613162660314_7547590265317913301_n.jpg?stp=cp0_dst-jpg_p64x64_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_ohc=FtQN3BmutrAQ7kNvwG_qgTT&_nc_oc=AdrS5j3keDeZKt4THsOwKLxBc-XF8ZNtJ5U0kCGxO_sDL7sm1PPyqRqbP6btI-k8OoQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQGVObvOFPH9_x3E7logCE6K7D_Ri7FM32JHjCdnqfsPOA&oe=6A89E2C2",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 1
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-16T10:45:15.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV85OTk0NTEzMjY0NjA5NzQ=",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_j3LGkCCUv09POqjXxCyKP9Zgwxe8YTjStUnxq9CEB73sIT1fKPrXTBoJ2kzXoqffoqZjZNM2e8csJdgnh2bEHuSrW1a6P6af13ngIJtGQ1qcGySFQFVpGg0tARNKHbxI-Qtos5vhGU3y1ns9JP3TpRtsJZSz9pQgmYJTz7Y3kd1uIhiVXsHQ8518s-8Qv-yjcvRMnvFPJe1V-ZJqiZD34KyPK2TtM0FdlkrTmpIVzNdIAIrAxUWIo9dDfNnVoc5XDb_HB3NwCLL5LO_eUGe8XxMHOvDfUGH11cFjXijioAqLGe8SWdFCWg5gefc_Y6o8BZq10Dn_4iriYWPSbEbpglndLD4aAOYVZkzCp3cmJ3twTMOv7RMRuMuv3Ym342wh5fBdp3I2fi2hjbiRdfuAh2ESOY6gOU432OCRUBWq4r7qR8-n4he8Dm85MnE33UQGY9E7EFiPMsaeQLFtC3LDArKilWD24sBNB01OIOGOl_sUM06rpt8A0ZqR0lQ69sSDlmukrCiooB5gWP6K4MKdrc4UedMR83JWlmG4"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzIyMTI3NzQyNDI1OTg4Mzg=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "But poor instalation in faridabad 121001 nit no vaccum  no leakage test, not good for co. Future",
+            "author": {
+              "username": "pfbid028y87LJZT54p2ymGa94S95EH3NMcbYrcD6F2PoBs1ih8GXkUyQgfdNsZhbwQDYY4Jl",
+              "display_name": "Tamanna Kalra",
+              "avatar_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/391726618_289720134007717_4617286371722276853_n.jpg?stp=cp0_dst-jpg_p64x64_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8KCFATEHb3MQ7kNvwFSKjsS&_nc_oc=Adp9gVquAaBbzi3m6TKOtl2SF0GVdxwFx0-2tScfUiNskPL-dSVLgN28wVreWsmtlbM&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQGKlORPjxFZRH2-u8XQaVwCSyZKiHmUaxkf1F_B-MyFig&oe=6A89F761",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-14T06:33:17.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8yMjEyNzc0MjQyNTk4ODM4",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_R-aZ2i3wHO_VdsyDIXLNCBsI7HIRSe_MHkNJ9tADoWApwdYlXCHZ2w_qLtyCQ-r4-z72zLSdyanLHD3Qtgp5KvZC9BJ96KGOlI3KeaPByeR7Q-8QFXcJ7woUHt_6B2qG8Cd_dGGudfDvQG8bbni9maOz8R6OyTLQNqDrOToGhexY9G86Sd-UvH9xSkIZNgDOVGfvT_tN4BBFbqFL-8j8jUvZchIadij505sWeUUZzRmhi4W7eXFpl29agVtXM82noXtaerAelvN9R2DFle7HZmYfqvqX-7R-LKI0vMx1Yag_UB_ZzgP2I_SUNCyGJpaw4uwacdyvJ8LEYT6cEBYEQeqt6i28WcrIZ67NrRGpP5dX99XUDBhHpE7UmMy8Myq2sfM5DKXZHG_GVfHG0oN9Wg-TGUytRRCBWuDd3sb3kRmrQyJ7j3Adrs39ApyxNMkdXKPfWFKLitU5Rh_jrsgDviqJ8bryCfTGZqu_naRJdI_LmqCtfU1JwMCLyHpGsLqWJb8kdEayA28FQKwKWwOVbnId26Ic9rkxWBvD"
+            }
+          },
+          "computed": {
+            "language": "en"
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzE3MjMzODA1MDU1NDA3NDY=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": null,
+            "author": {
+              "username": "pfbid024Bwwmw3SsKNFkgkgMRUVmfCUhr7zaxFZcxFU1BtMpESFHtw3bFnJYsNCTmuBj1Tsl",
+              "display_name": "Hi Aravind",
+              "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/362922295_2280479112341767_3741326615529119943_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_ohc=AyfX-AJbJk0Q7kNvwE2VEsV&_nc_oc=AdroIS7pTficJIZJAOXfUYjKDa_o_OeB9sM5pepPX41656M1Pe_YJNoKfkMrYUuzoZE&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQHTKGjwN9Jl3ZmJwnGpcCgLKXimlBYT_A_D9mgM75HYBg&oe=6A89F97A",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-15T02:15:52.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8xNzIzMzgwNTA1NTQwNzQ2",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_5b0YBuQPc6ej0ADyGcUkJorzsIUUJjK1vNZIi3u_lD6AlZGsXtAPqnU9f5BFUwNbYfZblbIuJ8IyJD8iUzRR6n9e4bU-YgeHG976RJWqhHZZumEgqFnkiVWIVQcnNFeYXjXR3YnJcvMn34MLfNEgH7Z-woMYnUnG6vwv8D-OsRvcgsMp1m9uyEQG0l3fgmuyLNDY-5ji-mv27xsdtbkvOgYnizKBGGKJ7r5adWck4AYRF9Eck_k_C0RsuiKIl54edjIZkwm4y9BX3j_MQu7hPLev-OUSf6xAGC2-lunA3rtTDC6wZ-XE4cDKooELr_S0m13jYYSBc8anyj-9vK31kaGQVVgEJFmCt_g4MHG1WR4SLqlfXhdkf1gz7rZXuWgZAqpEBiMcsold1CIxWgVV50EpbkUA0Cj851MD9lfFfD0LW461Zdda8FXueICLirXRIiaqP6qgGXtGPFL-uu7Xzv2ViWZuJlfVqY1Vn0WQGvts3dBCnEzzEdaeGBQ6_rv3y2oJyReZp7FiSusfTZcjDoLmp_j_kL1sSsBr"
+            }
+          },
+          "computed": {
+            "language": null
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzEwODQ5OTMwODQwNTQ1MDk=",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Sarvis ka weight karre hai",
+            "author": {
+              "username": "pfbid02tPWSopkMGiC6eZeES2PJQK5Gc1fc65nKwAD4oLh5M8s74dBNFcbrRr9nYVb2Sf3kl",
+              "display_name": "Abdul Subhan",
+              "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/655964463_122131207707016060_6824256513695568396_n.jpg?stp=cp0_dst-jpg_s64x64_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=gjjSKlIbL4QQ7kNvwE19GxO&_nc_oc=Ado_yN2MRLXGoFPit94M_8Syt3NVg2xq18H50232Z8U2w8QGC6RhlWc12RT4OxWlfak&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQH36jNxRsqdEqURPSj0KnCCO-p4zr8kHcR0H6zG8kYDag&oe=6A89F512",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 1
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-17T10:32:13.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8xMDg0OTkzMDg0MDU0NTA5",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_lyx22N36iNO6IUb7UO9JFgGIp84BO-pGeN_9AQKAO6OUxfuvQHLcWvhr0nVfhaeM8Lg7RDxH9LTfPwKX2yLWo7kErKyjBH7lFqZPkCzY8mQQXPXAPc-fqp7GJBUZXZ69MBMwQ9vBlkuP7kPQDfJlcDrlfC5HeBDa4i4JnjJVdczpMhenvBCW1s_CgsvVwHr5ORX3yKtOZYDOMTIZTz8MW_RMWYzdLocs1gCe1BP9pLP1xGtSbLBVJq9avy08fWLjOB-PstmhX901NDfVW812fvS-SmhHElbIw4kQBMeJ8mZl_llf8qS-YuFKlQOiF0A6qf1_F9ZwytvPGBuODYzNtmrQa7ooO8ToAIiQ6t_klOS4WempE1CF1CD3xoSoBKm36Kf1QhzQn3c28-JS5AaIlFMbdekQNnnzjJqOaE4bmjDopyuQHcXwDEcuizISrwmRl3-IpVvFDUBRIuglXqrALKg5YVbA-yBJLEyzC6cjxNb8X5p_EyJ5YUUJeQFu2KrTJXdc6CaFJgAtPwwb1pDfGGQmGxPtg9hGxraL"
+            }
+          },
+          "computed": {
+            "language": null
+          }
+        },
+        {
+          "comment": {
+            "id": "Y29tbWVudDoxNDk2OTY0MzQ1ODA0Mzc1XzI3ODg5ODY3NDYwNjc4Mjc2",
+            "url": null,
+            "parent_id": null,
+            "post_id": null,
+            "text": "Best Barend",
+            "author": {
+              "username": null,
+              "display_name": "Sk Md Julfikar",
+              "avatar_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/569189679_3061338694046023_1264137254520240423_n.jpg?stp=cp0_dst-jpg_p64x64_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=yB2OS9sWenMQ7kNvwF7UsS5&_nc_oc=AdoFWS8yn0h9bo0lR6jg-t_-qRTZKkT_L_uvj7uyy_Cbax206J5vcHhdFJBROAHrNuI&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=k1DXIpMaD6KZMYE4Db9YiA&_nc_ss=7f289&oh=00_AQE33qes6K2PxiVAQWy3vitNVxEoPyOnK5QLs5bg2C3xBg&oe=6A89FE21",
+              "verified": null
+            },
+            "engagement": {
+              "likes": 0,
+              "replies": 0
+            },
+            "flags": {
+              "pinned": null,
+              "deleted": false
+            },
+            "published_at": "2026-08-14T08:08:19.000Z",
+            "ext": {
+              "feedback_id": "ZmVlZGJhY2s6MTQ5Njk2NDM0NTgwNDM3NV8yNzg4OTg2NzQ2MDY3ODI3Ng==",
+              "expansion_token": "MjoxNzg3MDQ1NzU3OgF_zYqyguz0bzGWPLpc6MOBx1alUZz5drOM0AxgJLRrHPlq-DM70z2QAxvvwJ2NKniLx50SvUxcXxJsm6WdJW6eE0mUe43Ty91UdwhrbeW_47IQEXya3kX0_JTIXLkVwQSG4lI0Wj8e3xF8QZG_V4h4mJwQ5-w9LdVKKQo41UG99IYQ0bQ0PuHOFP-0AQfPznhK7c1mR9VatcI-_Uv5u3LYo4O26diBCd3Ki2DXAtYnUKzfvzoEh8Wat2Fz7Dh0FrNCY4zK_xwbABLfgKI29o_2QqvDfQ7sfOG7qeRwNI5Fp3xxE5P_K6XSukqwUT5ZtAbKSEWKORejODyqKQ1ZVgKpNTOEQZriBZ-KvWD64NyXb29XwajVXZ5_M4SXCBkA-oef2S55jI_C1bL35MkTiwgcia2inx3AJpeuF7WvGO8t2Ike8LaGToiu9RZL1apC3twFfP7LnPVXQyVRm6CmV0DhoXaAaTmSHU5MBPihu86Y0HN2eNSY5Qp2juFg-IC-petFOhZQ4pWf3mjhwba_0dYFKlg51olnBqbkK05bUzQ",
+              "author_id": "100005097661349"
+            }
+          },
+          "computed": {
+            "language": "nl"
+          }
+        }
+      ],
+      "raw_post": {
+        "post": {
+          "id": "1496964345804375",
+          "url": "https://www.facebook.com/DaikinIndia/posts/pfbid0yys4eCrFoKxXf36L3e7ZcHSe7nKogfPsFaP3hhxsUpCUsFNQugkgUr44rC9fMWcPl",
+          "content": {
+            "text": "A full house calls for Heavy Duty cooling. Daikin's 5 Star ACs are built to provide reliable cooling, keeping every corner of your home comfortable.\n\n#DaikinIndia #HeavyDutyCooling",
+            "media_urls": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/774196413_1496964239137719_4337247392633162017_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=F-4jGdNALXsQ7kNvwGStZgk&_nc_oc=AdpLN-FGboMVZjTfleV16-f0QaIGR-JCOVLrhefpiwcAnlxW7vNaY4806e58ntPFmfw&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=oj3U4MyhybuTtKlUjfRNoQ&_nc_ss=7f289&oh=00_AQHB4SdAlYgbmLuYWVVaGHwZkomp5FL_k7_VF2_b6UD1RQ&oe=6A89F180",
+            "thumbnail_url": null,
+            "duration_seconds": null
+          },
+          "author": {
+            "username": null,
+            "display_name": "Daikin India",
+            "avatar_url": null,
+            "verified": null
+          },
+          "engagement": {
+            "views": null,
+            "likes": 69,
+            "comments": 15,
+            "shares": null,
+            "saves": null
+          },
+          "flags": {
+            "nsfw": null,
+            "spoiler": null,
+            "pinned": null,
+            "deleted": false
+          },
+          "published_at": "2026-08-14T05:59:18.000Z",
+          "ext": {
+            "author_id": "100064724704668",
+            "published_at_epoch": 1786687158
+          }
+        },
+        "computed": {
+          "engagement_rate": null,
+          "language": "en",
+          "content_category": "other",
+          "estimated_reach": null
+        }
+      }
+    }
+  ]
+}

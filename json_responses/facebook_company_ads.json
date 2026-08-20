@@ -1,0 +1,219 @@
+{
+  "platform": "facebook",
+  "endpoint": "adlibrary/company/ads",
+  "page_id": null,
+  "company_name": "Daikin India",
+  "filters": {
+    "start_date": "2026-01-01",
+    "end_date": "2026-08-18",
+    "status": "ACTIVE",
+    "country": "IN",
+    "media_type": "ALL",
+    "sort_by": "total_impressions"
+  },
+  "total_ads": 5,
+  "ads": [
+    {
+      "post": {
+        "id": "1012126611662381",
+        "url": "https://www.facebook.com/ads/library?id=1012126611662381",
+        "content": {
+          "text": "Enjoy carefree comfort",
+          "media_urls": [
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/763101064_1739886070434592_2691672479506501681_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5-wCakYnfEQ7kNvwFIJi4A&_nc_oc=AdrzvIXUK604MByR4wFVu8NiN0FZSKYjFaumjvfmfSajTkUEjHHq6nDAOIcYEGyR1R0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQFYngSi8e29sFK3u5h7u1z1xVwseiXHgOKiTjSoEhR8BQ&oe=6A89F5BA",
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/760689892_1372935167519277_2181451656061331954_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S7oYKq_fvfIQ7kNvwGOzOeg&_nc_oc=Adr0zv9s9UMJXpZ2fH7A1OS9khwWHvKmJthvBc2XyUiForrYv8n1T4YimMrN0tcd5Zc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQHbFsjNPdld2zIfjFOVYDEBqDokDOkcYQnDThSPf9_Pug&oe=6A8A2BD9"
+          ],
+          "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/763101064_1739886070434592_2691672479506501681_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5-wCakYnfEQ7kNvwFIJi4A&_nc_oc=AdrzvIXUK604MByR4wFVu8NiN0FZSKYjFaumjvfmfSajTkUEjHHq6nDAOIcYEGyR1R0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQFYngSi8e29sFK3u5h7u1z1xVwseiXHgOKiTjSoEhR8BQ&oe=6A89F5BA",
+          "duration_seconds": null
+        },
+        "author": {
+          "username": "Daikin India",
+          "display_name": "Daikin India",
+          "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/763098491_1034303489328071_7838955917698858430_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jC5F2iEhqzgQ7kNvwGzcOrq&_nc_oc=AdpqvheivRGVBs5qFQICoFmSvu2z1h21r1pkJXh86s3i5Uq6AZAYAU2gTXnz0WNjWAw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQE_s5vwyTxWeBL4lv_LBuvptpsgLZVR5p_KFhmby8x1yA&oe=6A89FA61",
+          "verified": null
+        },
+        "engagement": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "shares": null,
+          "saves": null
+        },
+        "flags": {
+          "nsfw": null,
+          "spoiler": null,
+          "pinned": null,
+          "deleted": false
+        },
+        "published_at": "2026-08-03T07:00:00.000Z"
+      },
+      "computed": {
+        "engagement_rate": null,
+        "language": null,
+        "content_category": "other",
+        "estimated_reach": null
+      }
+    },
+    {
+      "post": {
+        "id": "28440178655579332",
+        "url": "https://www.facebook.com/ads/library?id=28440178655579332",
+        "content": {
+          "text": "Enjoy carefree comfort",
+          "media_urls": [
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/762404695_1809424687094528_3166250339308652198_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=63DEwMlRzK8Q7kNvwEv5qgD&_nc_oc=Ado-vmFAZutp3Xyz6I4n7aUEX-h_o7yez0oAAdcsMSqvU7nVIUWCvazlPXLbajsULQo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQHx6f9IvhTxu6ubMN8NH_tLrzarW_IPKhyFlfrbf1RCag&oe=6A8A1C8F",
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/759835269_2230612064452078_4584874748903228746_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UEgBr656JJ4Q7kNvwGvFN9D&_nc_oc=AdoAUKaqlzZWKr_xfFw33yddPKHq9zK5aBLKa8LkFPF21Oh27RRRK2j7i9n8CIVpEec&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGiOUZmJTBMTaR6EH5IVg0vxiwyOmJWK7iW-p0SiNcn1g&oe=6A8A0F12"
+          ],
+          "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/762404695_1809424687094528_3166250339308652198_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=63DEwMlRzK8Q7kNvwEv5qgD&_nc_oc=Ado-vmFAZutp3Xyz6I4n7aUEX-h_o7yez0oAAdcsMSqvU7nVIUWCvazlPXLbajsULQo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQHx6f9IvhTxu6ubMN8NH_tLrzarW_IPKhyFlfrbf1RCag&oe=6A8A1C8F",
+          "duration_seconds": null
+        },
+        "author": {
+          "username": "Daikin India",
+          "display_name": "Daikin India",
+          "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/762629877_1727319241818926_323403195499316164_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e7MxEBQNJAEQ7kNvwFlTOEa&_nc_oc=AdrB6hlPGKb7mtmvkKHTYhBZ6WvbiDeKKvXoyd0GtBTouWhj4JlSYX5Yfmvkyo899Cg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQG8pdXHZ8yIOvCS8wn7UEfOvpxE6vlZrlwVHGGVCQmo5Q&oe=6A8A240D",
+          "verified": null
+        },
+        "engagement": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "shares": null,
+          "saves": null
+        },
+        "flags": {
+          "nsfw": null,
+          "spoiler": null,
+          "pinned": null,
+          "deleted": false
+        },
+        "published_at": "2026-08-03T07:00:00.000Z"
+      },
+      "computed": {
+        "engagement_rate": null,
+        "language": null,
+        "content_category": "other",
+        "estimated_reach": null
+      }
+    },
+    {
+      "post": {
+        "id": "1575387057316616",
+        "url": "https://www.facebook.com/ads/library?id=1575387057316616",
+        "content": {
+          "text": "Enjoy carefree comfort",
+          "media_urls": [
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761858767_1726415371913072_6875836105821379148_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PeCPkLsg5uMQ7kNvwHftoZy&_nc_oc=AdpuCuS2yayP3ssbjR_7UtxM6zUZ9_QfEptBjspYaT30FRMb5k_02Q6mL7skJxefXOc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGUc37HGjLFC1CSv-Q-JPCrcFabiHricz4A6jsNQd4tmQ&oe=6A8A09D1",
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/764863142_1044349547970894_2039063908091673012_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=InuYagJd_4YQ7kNvwFdkraR&_nc_oc=AdqX75KPjLuO0ce1jJxRf7ggESbOD-27ziDQgUi2mmT9EL4rUdTLENuow1hExFAvaw8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQFUgvxZ6YcIwVNvqJO6ETYaS-GqHc5R5psAfdzQsWmbvg&oe=6A8A22B9"
+          ],
+          "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761858767_1726415371913072_6875836105821379148_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PeCPkLsg5uMQ7kNvwHftoZy&_nc_oc=AdpuCuS2yayP3ssbjR_7UtxM6zUZ9_QfEptBjspYaT30FRMb5k_02Q6mL7skJxefXOc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGUc37HGjLFC1CSv-Q-JPCrcFabiHricz4A6jsNQd4tmQ&oe=6A8A09D1",
+          "duration_seconds": null
+        },
+        "author": {
+          "username": "Daikin India",
+          "display_name": "Daikin India",
+          "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/762803123_1098462592748678_2521874221958554338_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DH48MJkOdB0Q7kNvwFZ-YYs&_nc_oc=AdpSvOCyYEpAQxZ3qHryFR5TdtS-ppAv9LtcSN8Az-5L1_6tQfis7n3ouETNkF5gU5g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGC0bhwmeKhhxfctGS8tKVYrahxiQzEhLm0oqbi6Vvjfw&oe=6A89F60A",
+          "verified": null
+        },
+        "engagement": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "shares": null,
+          "saves": null
+        },
+        "flags": {
+          "nsfw": null,
+          "spoiler": null,
+          "pinned": null,
+          "deleted": false
+        },
+        "published_at": "2026-08-03T07:00:00.000Z"
+      },
+      "computed": {
+        "engagement_rate": null,
+        "language": null,
+        "content_category": "other",
+        "estimated_reach": null
+      }
+    },
+    {
+      "post": {
+        "id": "2026543744734252",
+        "url": "https://www.facebook.com/ads/library?id=2026543744734252",
+        "content": {
+          "text": "Welcome King Mahabali in cool comfort! Bring home Daikin ACs with excl. festive offers, easy EMIs & cashback. T&C Apply.",
+          "media_urls": null,
+          "thumbnail_url": null,
+          "duration_seconds": null
+        },
+        "author": {
+          "username": "Daikin India",
+          "display_name": "Daikin India",
+          "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761180439_1531777955297789_7601736341353321770_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7GKC05J5V-AQ7kNvwHiWoqn&_nc_oc=Adrj2aMzC9rihXy9ZcBxNGj-HnNZ9ZBw1QwHy_Xxjz4_j7jKLtWQ_GxgVVoKVD3nfZs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQFALzsHtCc-hKg5wW0EDOG4l-K75u8FuHmkDTax1cdxAQ&oe=6A8A21E6",
+          "verified": null
+        },
+        "engagement": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "shares": null,
+          "saves": null
+        },
+        "flags": {
+          "nsfw": null,
+          "spoiler": null,
+          "pinned": null,
+          "deleted": false
+        },
+        "published_at": "2026-08-03T07:00:00.000Z"
+      },
+      "computed": {
+        "engagement_rate": null,
+        "language": "en",
+        "content_category": "other",
+        "estimated_reach": null
+      }
+    },
+    {
+      "post": {
+        "id": "3208491132685591",
+        "url": "https://www.facebook.com/ads/library?id=3208491132685591",
+        "content": {
+          "text": "Enjoy carefree comfort",
+          "media_urls": [
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761858767_1726415371913072_6875836105821379148_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PeCPkLsg5uMQ7kNvwHftoZy&_nc_oc=AdpuCuS2yayP3ssbjR_7UtxM6zUZ9_QfEptBjspYaT30FRMb5k_02Q6mL7skJxefXOc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGUc37HGjLFC1CSv-Q-JPCrcFabiHricz4A6jsNQd4tmQ&oe=6A8A09D1",
+            "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/764863142_1044349547970894_2039063908091673012_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=InuYagJd_4YQ7kNvwFdkraR&_nc_oc=AdqX75KPjLuO0ce1jJxRf7ggESbOD-27ziDQgUi2mmT9EL4rUdTLENuow1hExFAvaw8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQFUgvxZ6YcIwVNvqJO6ETYaS-GqHc5R5psAfdzQsWmbvg&oe=6A8A22B9"
+          ],
+          "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/761858767_1726415371913072_6875836105821379148_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PeCPkLsg5uMQ7kNvwHftoZy&_nc_oc=AdpuCuS2yayP3ssbjR_7UtxM6zUZ9_QfEptBjspYaT30FRMb5k_02Q6mL7skJxefXOc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGUc37HGjLFC1CSv-Q-JPCrcFabiHricz4A6jsNQd4tmQ&oe=6A8A09D1",
+          "duration_seconds": null
+        },
+        "author": {
+          "username": "Daikin India",
+          "display_name": "Daikin India",
+          "avatar_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/762803123_1098462592748678_2521874221958554338_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DH48MJkOdB0Q7kNvwFZ-YYs&_nc_oc=AdpSvOCyYEpAQxZ3qHryFR5TdtS-ppAv9LtcSN8Az-5L1_6tQfis7n3ouETNkF5gU5g&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kxZsUjgf7FkvLy45ob9Iag&_nc_ss=7f289&oh=00_AQGC0bhwmeKhhxfctGS8tKVYrahxiQzEhLm0oqbi6Vvjfw&oe=6A89F60A",
+          "verified": null
+        },
+        "engagement": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "shares": null,
+          "saves": null
+        },
+        "flags": {
+          "nsfw": null,
+          "spoiler": null,
+          "pinned": null,
+          "deleted": false
+        },
+        "published_at": "2026-08-11T07:00:00.000Z"
+      },
+      "computed": {
+        "engagement_rate": null,
+        "language": null,
+        "content_category": "other",
+        "estimated_reach": null
+      }
+    }
+  ]
+}

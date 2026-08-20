@@ -1,0 +1,179 @@
+{
+  "endpoint": "https://www.socialcrawl.dev/v1/facebook/profile/posts",
+  "tests": {
+    "LG India": {
+      "facebook_url": "https://www.facebook.com/LGIndia",
+      "http_status": 200,
+      "response": {
+        "success": true,
+        "platform": "facebook",
+        "endpoint": "/v1/facebook/profile/posts",
+        "data": {
+          "items": [],
+          "total": 0,
+          "dropped": 0
+        },
+        "credits_used": 0,
+        "credits_remaining": 1007,
+        "request_id": "req-LUXo0e5fuSuU3cSG",
+        "cached": false,
+        "pagination": {
+          "next_cursor": null,
+          "has_more": false,
+          "page_size": 0
+        }
+      }
+    },
+    "Meta": {
+      "facebook_url": "https://www.facebook.com/Meta",
+      "http_status": 200,
+      "response": {
+        "success": true,
+        "platform": "facebook",
+        "endpoint": "/v1/facebook/profile/posts",
+        "data": {
+          "items": [
+            {
+              "post": {
+                "id": "1108913955131147",
+                "url": "https://www.facebook.com/reel/1565640421329628/",
+                "content": {
+                  "text": "when Brian was looking for products to help the people he serves as an IT trainer at Vision Ireland, he found Ray-Ban Meta glasses. today, we're partnering with Vision Ireland to bring independence to everyone their charity supports, donating 15,000 Ray-Ban Meta glasses and hands-on training to make them part of everyday life. \n\nthis is one step of many—from free AI glasses for blind veterans in the U.S. to investing in communities where we're building AI infrastructure, we're committed to people and we're excited about a future that's for everyone",
+                  "media_urls": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/775280582_1565884787971858_7568681540665612765_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=100&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=Dt6NscdBDZQQ7kNvwG69niS&_nc_oc=Adrlt5XBZI13qV0TgP9GujKXTxpfUoUYZR9Gpk_HslRp1c5PCgzrh7a-D9X6Mye5qII&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AQwbYA5mmf6H1WHI34VnEQ&_nc_ss=7f289&oh=00_AQG1snS-uL6sFT8ita68HqfpeiBwNxesipNhQ3-qR5LqXA&oe=6A88E66E",
+                  "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/775280582_1565884787971858_7568681540665612765_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=be8305&_nc_ohc=Dt6NscdBDZQQ7kNvwG69niS&_nc_oc=Adrlt5XBZI13qV0TgP9GujKXTxpfUoUYZR9Gpk_HslRp1c5PCgzrh7a-D9X6Mye5qII&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AQwbYA5mmf6H1WHI34VnEQ&_nc_ss=7f289&oh=00_AQFq9Rmai6UIzrhpWvzfoBW44_BsRQn1IjlxqvEF5r_4Zg&oe=6A88E66E",
+                  "duration_seconds": null
+                },
+                "author": {
+                  "username": null,
+                  "display_name": "Meta",
+                  "avatar_url": null,
+                  "verified": null
+                },
+                "engagement": {
+                  "views": null,
+                  "likes": 1069,
+                  "comments": 348,
+                  "shares": null,
+                  "saves": null
+                },
+                "flags": {
+                  "nsfw": null,
+                  "spoiler": null,
+                  "pinned": null,
+                  "deleted": false
+                },
+                "published_at": "2026-08-14T15:03:14.000Z",
+                "ext": {
+                  "author_id": "100080376596424",
+                  "published_at_epoch": 1786719794
+                }
+              },
+              "computed": {
+                "engagement_rate": null,
+                "language": "en",
+                "content_category": "fitness",
+                "estimated_reach": null
+              }
+            },
+            {
+              "post": {
+                "id": "1105335818822294",
+                "url": "https://www.facebook.com/Meta/posts/pfbid0284V2pcn5bQZJXysK8ntG4wHxD7cDPNNrP5KTFpB5boQh6m44ZHjTtxZR7x5GYR17l",
+                "content": {
+                  "text": "Check out our latest model updates and see how we're investing in a future that's for everyone.",
+                  "media_urls": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/771956132_27737797462555577_1816491239227951202_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=ircwmy1CLgsQ7kNvwGh_VnN&_nc_oc=Adqx3Z2vvs5TgxDdC4bgcyeDpHSMiYsAo3iCG8spKpPLwUGdRITO7O-rmF1v8OlWA0A&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AQwbYA5mmf6H1WHI34VnEQ&_nc_ss=7f289&oh=00_AQHvvxMM5B8RZcxaVnIyfz9BqvIwQX4D0B-UVitaNUvblw&oe=6A88D7EB",
+                  "thumbnail_url": null,
+                  "duration_seconds": null
+                },
+                "author": {
+                  "username": null,
+                  "display_name": "Meta",
+                  "avatar_url": null,
+                  "verified": null
+                },
+                "engagement": {
+                  "views": null,
+                  "likes": 3558,
+                  "comments": 895,
+                  "shares": null,
+                  "saves": null
+                },
+                "flags": {
+                  "nsfw": null,
+                  "spoiler": null,
+                  "pinned": null,
+                  "deleted": false
+                },
+                "published_at": "2026-08-10T10:04:48.000Z",
+                "ext": {
+                  "author_id": "100080376596424",
+                  "published_at_epoch": 1786356288
+                }
+              },
+              "computed": {
+                "engagement_rate": null,
+                "language": "en",
+                "content_category": "other",
+                "estimated_reach": null
+              }
+            },
+            {
+              "post": {
+                "id": "1102209855801557",
+                "url": "https://www.facebook.com/reel/1055415926959135/",
+                "content": {
+                  "text": "stop dreaming and start building it. you’re just a few prompts away from bringing your big (or punny) idea to life with Meta AI",
+                  "media_urls": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/764975563_1405651744778384_2383259573195546872_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=102&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=PWiCPq_Vak4Q7kNvwHLiG6A&_nc_oc=Adr6BPgRhPIrRNCQV5SIw284MoU6cuMfoaMFhfbTL_ZaIyT7w2hD4FBqF1FQLjxbfmY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=AQwbYA5mmf6H1WHI34VnEQ&_nc_ss=7f289&oh=00_AQGqAys1Coo3SYfHBuAKW7G4i87hYz9C2iRg_gVqjkZBHQ&oe=6A88D29E",
+                  "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/764975563_1405651744778384_2383259573195546872_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=be8305&_nc_ohc=PWiCPq_Vak4Q7kNvwHLiG6A&_nc_oc=Adr6BPgRhPIrRNCQV5SIw284MoU6cuMfoaMFhfbTL_ZaIyT7w2hD4FBqF1FQLjxbfmY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=AQwbYA5mmf6H1WHI34VnEQ&_nc_ss=7f289&oh=00_AQErcWtHmk7W3CUrRm2Me5-6DJpCmTX5hjjtDTOEYRTe5w&oe=6A88D29E",
+                  "duration_seconds": null
+                },
+                "author": {
+                  "username": null,
+                  "display_name": "Meta",
+                  "avatar_url": null,
+                  "verified": null
+                },
+                "engagement": {
+                  "views": null,
+                  "likes": 1395,
+                  "comments": 537,
+                  "shares": null,
+                  "saves": null
+                },
+                "flags": {
+                  "nsfw": null,
+                  "spoiler": null,
+                  "pinned": null,
+                  "deleted": false
+                },
+                "published_at": "2026-08-06T17:00:26.000Z",
+                "ext": {
+                  "author_id": "100080376596424",
+                  "published_at_epoch": 1786035626
+                }
+              },
+              "computed": {
+                "engagement_rate": null,
+                "language": "en",
+                "content_category": "other",
+                "estimated_reach": null
+              }
+            }
+          ],
+          "next_cursor": "Cg8Ob3JnYW5pY19jdXJzb3IJAAACmkFRSFR3Z2FUQ3dROGVEY09SNVFDamJrQ21YWmV3T2x5TFhDQ2Q2eFJFc0lCa0dBX1d6a08zWkNLbFNBemNPMW9FYU5EUXhvZTc1dFZEclZpaUJ6UVFCX2lCTk9qOGIybjdGTGNYcHZNcDd6OW55OV92TTgxbGRIZ2VOQ1lVYTV6M3FzdXhEWkltZjc4RlJfODRiZzVzeG9HLWQ4WTYwOTROUUI4UGJ0TUNGdjUtbnhQSU5tX01hbTRELThQb2VOU1F4VktmaFI3M0lRUTBMQ2FFR1RmQ21GRmdDNjFjYUJGQzMxbEpaSFg2ME1hRS1qNExuUFpiMHczTl94MjNGNk1JM0VFa2FEWXVTajVwQUlpM1VjeThrSGVhZTZ5cFpCRVJWNGlyVlJoc3U0Q2hkRUJRRXZLMkJDbFJScXpSY2Z2c3hnLUVqbTM2Nk1FQ0YwMmN5NUFoTDBJazhIb3VuQkVNa21sOUdIdGNnOGUxQ1d0aEY4UWVNSFQxYmxDZklKeVRpN0Y3VzBkVHdTM1Z3ZkZCcHVVYkhtYmkzTm1TSm5yNmNuYXdKbDJldVg5WHgyRW5ZcGNsSGZac1hZcUhHelYwRS1Qcm5NV1lBdFZiSW1BUC1WRm9zVXQ4cG4xN05oMVZTcHlJeTl0RGp0aUNpVTEyQXdNVWFKWkFKYm9CaXB1SVFKT05FdXIwcVVId093UzF6UW5QeThPMXZ3NkhYOEFNeWNqNk5BZFZocFY1OGFmZ1lRTUtlNmR5TG1Id24yQVhDeUh0RzFsaG5xYWVxdEloTmktMTF3dElXaFRQZ3Z2Nmk0TlVnR3pNRzlFbVpMVWNiTlctbDJub2tWTU0zSjB1d2hiRHpLR2w0MV90UHZMdG4tdUJGWW02UQ8JYWRfY3Vyc29yDg8PZ2xvYmFsX3Bvc2l0aW9uAgAPBm9mZnNldAIADxBsYXN0X2FkX3Bvc2l0aW9uAv8B",
+          "total": null,
+          "dropped": 0
+        },
+        "credits_used": 1,
+        "credits_remaining": 1006,
+        "request_id": "req-o4E1GGwfOWuRiY6m",
+        "cached": false,
+        "pagination": {
+          "next_cursor": "sc.eyJ2IjoyLCJjIjoiQ2c4T2IzSm5ZVzVwWTE5amRYSnpiM0lKQUFBQ21rRlJTRlIzWjJGVVEzZFJPR1ZFWTA5U05WRkRhbUpyUTIxWVdtVjNUMng1VEZoRFEyUTJlRkpGYzBsQ2EwZEJYMWQ2YTA4eldrTkxiRk5CZW1OUE1XOUZZVTVFVVhodlpUYzFkRlpFY2xacGFVSjZVVkZDWDJsQ1RrOXFPR0l5YmpkR1RHTlljSFpOY0RkNk9XNTVPVjkyVFRneGJHUklaMlZPUTFsVllUVjZNM0Z6ZFhoRVdrbHRaamM0UmxKZk9EUmlaelZ6ZUc5SExXUTRXVFl3T1RST1VVSTRVR0owVFVOR2RqVXRibmhRU1U1dFgwMWhiVFJFTFRoUWIyVk9VMUY0Vmt0bWFGSTNNMGxSVVRCTVEyRkZSMVJtUTIxR1JtZEROakZqWVVKR1F6TXhiRXBhU0ZnMk1FMWhSUzFxTkV4dVVGcGlNSGN6VGw5NE1qTkdOazFKTTBWRmEyRkVXWFZUYWpWd1FVbHBNMVZqZVRoclNHVmhaVFo1Y0ZwQ1JWSldOR2x5VmxKb2MzVTBRMmhrUlVKUlJYWkxNa0pEYkZKU2NYcFNZMloyYzNobkxVVnFiVE0yTmsxRlEwWXdNbU41TlVGb1REQkphemhJYjNWdVFrVk5hMjFzT1VkSWRHTm5PR1V4UTFkMGFFWTRVV1ZOU0ZReFlteERaa2xLZVZScE4wWTNWekJrVkhkVE0xWjNaa1pDY0hWVllraHRZbWt6VG0xVFNtNXlObU51WVhkS2JESmxkVmc1V0hneVJXNVpjR05zU0daYWMxaFpjVWhIZWxZd1JTMVFjbTVOVjFsQmRGWmlTVzFCVUMxV1JtOXpWWFE0Y0c0eE4wNW9NVlpUY0hsSmVUbDBSR3AwYVVOcFZURXlRWGROVldGS1drRktZbTlDYVhCMVNWRktUMDVGZFhJd2NWVklkMDkzVXpGNlVXNVFlVGhQTVhaM05raFlPRUZOZVdOcU5rNUJaRlpvY0ZZMU9HRm1aMWxSVFV0bE5tUjVURzFJZDI0eVFWaERlVWgwUnpGc2FHNXhZV1Z4ZEVsb1Rta3RNVEYzZEVsWGFGUlFaM1oyTm1rMFRsVm5SM3BOUnpsRmJWcE1WV05pVGxjdGJESnViMnRXVFUwelNqQjFkMmhpUkhwTFIydzBNVjkwVUhaTWRHNHRkVUpHV1cwMlVROEpZV1JmWTNWeWMyOXlEZzhQWjJ4dlltRnNYM0J2YzJsMGFXOXVBZ0FQQm05bVpuTmxkQUlBRHhCc1lYTjBYMkZrWDNCdmMybDBhVzl1QXY4QiIsInAiOiJjdXJzb3IifQ",
+          "has_more": true,
+          "page_size": 3
+        }
+      }
+    }
+  }
+}
